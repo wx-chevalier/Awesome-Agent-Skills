@@ -52,6 +52,7 @@
 | Skill Name            | Description                                                  | Source                                                     |
 | --------------------- | ------------------------------------------------------------ | ---------------------------------------------------------- |
 | **Gemini Web Client** | 逆向工程的 Gemini Web API 客户端，支持多轮对话及多模态生成。 | [`baoyu-danger-gemini-web`](baoyu/baoyu-danger-gemini-web) |
+| **SymCLI**            | Deterministic symbolic computation engine and C# code analyzer. | [`Wowo51/SymCLI`](https://github.com/Wowo51/Sym)           |
 
 ---
 
