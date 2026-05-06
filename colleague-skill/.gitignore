@@ -1,0 +1,27 @@
+# Generated colleague skills (user data, not committed)
+colleagues/
+!colleagues/example_zhangsan/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Config with credentials
+~/.colleague-skill/
+
+# Playwright browser data
+playwright-data/
+
+# Temp files
+/tmp/feishu_*.txt
+/tmp/email_*.txt
+/tmp/dingtalk_*.txt
+knowledge/
+
+# OS
+.DS_Store
+Thumbs.db
