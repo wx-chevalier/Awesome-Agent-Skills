@@ -1,0 +1,13 @@
+# Claude Code 工作目录
+docs/
+
+# Claude 配置（保留 skills 目录）
+.claude/*
+!.claude/skills/
+
+# CodeMap 图谱
+.codemap/
+
+# 原始项目遗留
+_Internal/
+CLAUDE.md

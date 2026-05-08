@@ -1,0 +1,61 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "pm-skills-zh",
+  "version": "1.0.1",
+  "description": "结构化 AI 工作流，助你做出更好的产品决策。涵盖 8 个产品经理插件，65 个领域专用技能和 36 个链式工作流——从发现到策略、执行、发布和增长。",
+  "owner": {
+    "name": "Paweł Huryn",
+    "email": "pawel@productcompass.pm",
+    "url": "https://www.productcompass.pm"
+  },
+  "plugins": [
+    {
+      "name": "pm-product-discovery",
+      "description": "产品经理的产品发现技能：创意构思、实验设计、假设验证、功能优先级排序和客户访谈总结。",
+      "source": "./pm-product-discovery",
+      "category": "product-management"
+    },
+    {
+      "name": "pm-product-strategy",
+      "description": "产品经理的产品策略技能：愿景、策略画布、价值主张、精益画布、商业模式画布、SWOT 分析、PESTLE 分析、安索夫矩阵、波特五力模型和商业化策略。",
+      "source": "./pm-product-strategy",
+      "category": "product-management"
+    },
+    {
+      "name": "pm-execution",
+      "description": "执行与产品管理技能：PRD（产品需求文档）、OKR（目标与关键成果）、路线图、Sprint（冲刺）、事前验尸、干系人地图、用户故事、优先级排序框架等。",
+      "source": "./pm-execution",
+      "category": "product-management"
+    },
+    {
+      "name": "pm-market-research",
+      "description": "产品经理的市场研究技能：用户画像、市场细分、情感分析和竞品分析。",
+      "source": "./pm-market-research",
+      "category": "product-management"
+    },
+    {
+      "name": "pm-data-analytics",
+      "description": "产品经理的数据分析技能：SQL 查询生成和群组分析。分析用户数据、生成查询、识别留存模式。",
+      "source": "./pm-data-analytics",
+      "category": "product-management"
+    },
+    {
+      "name": "pm-go-to-market",
+      "description": "产品经理的市场进入（GTM）技能：GTM 策略、增长循环、GTM 动作、桥头堡市场和理想客户画像。",
+      "source": "./pm-go-to-market",
+      "category": "product-management"
+    },
+    {
+      "name": "pm-marketing-growth",
+      "description": "产品营销与增长技能：营销创意、价值主张陈述、北极星指标、产品命名和定位策略。",
+      "source": "./pm-marketing-growth",
+      "category": "product-management"
+    },
+    {
+      "name": "pm-toolkit",
+      "description": "产品经理实用工具：简历审核、NDA（保密协议）起草、隐私政策生成和语法/行文检查。核心产品工作之外的必备工具。",
+      "source": "./pm-toolkit",
+      "category": "product-management"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "pm-product-discovery",
+  "version": "1.0.1",
+  "description": "面向产品经理的产品探索技能包：创意构思、实验设计、假设验证、功能优先级排序及用户访谈整理。",
+  "author": {
+    "name": "Paweł Huryn",
+    "email": "pawel@productcompass.pm",
+    "url": "https://www.productcompass.pm"
+  },
+  "keywords": [
+    "产品管理",
+    "产品探索",
+    "创意构思",
+    "实验设计",
+    "假设验证"
+  ],
+  "homepage": "https://www.productcompass.pm",
+  "license": "MIT"
+}

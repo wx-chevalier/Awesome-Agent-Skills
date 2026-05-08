@@ -1,0 +1,25 @@
+{
+  "name": "pm-execution",
+  "version": "1.0.1",
+  "description": "执行与产品管理技能：PRD（产品需求文档）、OKR（目标与关键成果）、路线图、Sprint（冲刺）、事前剖析（Pre-mortem）、干系人地图、用户故事、优先级框架等。",
+  "author": {
+    "name": "Paweł Huryn",
+    "email": "pawel@productcompass.pm",
+    "url": "https://www.productcompass.pm"
+  },
+  "keywords": [
+    "product-management",
+    "execution",
+    "prd",
+    "okrs",
+    "roadmap",
+    "sprint",
+    "pre-mortem",
+    "user-stories",
+    "backlog",
+    "prioritization",
+    "agile"
+  ],
+  "homepage": "https://www.productcompass.pm",
+  "license": "MIT"
+}

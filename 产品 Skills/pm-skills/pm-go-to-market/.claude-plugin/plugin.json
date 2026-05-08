@@ -1,0 +1,20 @@
+{
+  "name": "pm-go-to-market",
+  "version": "1.0.1",
+  "description": "面向产品经理的市场进入技能包：GTM（市场进入策略）策略、增长循环、GTM 打法、桥头堡细分市场和理想客户画像。",
+  "author": {
+    "name": "Paweł Huryn",
+    "email": "pawel@productcompass.pm",
+    "url": "https://www.productcompass.pm"
+  },
+  "keywords": [
+    "product-management",
+    "go-to-market",
+    "gtm",
+    "growth-loops",
+    "icp",
+    "launch"
+  ],
+  "homepage": "https://www.productcompass.pm",
+  "license": "MIT"
+}

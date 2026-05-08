@@ -1,0 +1,20 @@
+{
+  "name": "pm-marketing-growth",
+  "version": "1.0.1",
+  "description": "产品营销与增长技能包：营销创意、价值主张陈述、北极星指标、产品命名与市场定位。",
+  "author": {
+    "name": "Paweł Huryn",
+    "email": "pawel@productcompass.pm",
+    "url": "https://www.productcompass.pm"
+  },
+  "keywords": [
+    "product-management",
+    "marketing",
+    "growth",
+    "north-star",
+    "positioning",
+    "branding"
+  ],
+  "homepage": "https://www.productcompass.pm",
+  "license": "MIT"
+}
