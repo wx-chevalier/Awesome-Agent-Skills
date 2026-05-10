@@ -4,8 +4,8 @@ Neon glow on dark backgrounds, futuristic aesthetic
 
 ## Color Palette
 
-- Primary: Neon pink (#FF00FF), cyan (#00FFFF), electric blue
-- Background: Deep black (#0A0A0A), dark purple gradients
+- Primary: Neon pink (`#FF00FF`), cyan (`#00FFFF`), electric blue
+- Background: Deep black (`#0A0A0A`), dark purple gradients
 - Accents: Neon glow effects, chrome reflections
 
 ## Visual Elements

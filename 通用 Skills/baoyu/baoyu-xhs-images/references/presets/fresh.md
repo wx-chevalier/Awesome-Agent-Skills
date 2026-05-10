@@ -33,11 +33,11 @@ decorations:
 
 ## Color Palette
 
-| Role | Colors | Hex |
-|------|--------|-----|
-| Primary | Mint green, sky blue, light yellow | #9AE6B4, #90CDF4, #FAF089 |
-| Background | Pure white, soft mint | #FFFFFF, #F0FFF4 |
-| Accents | Leaf green, water blue | #48BB78, #4299E1 |
+| Role       | Colors                             | Hex                             |
+| ---------- | ---------------------------------- | ------------------------------- |
+| Primary    | Mint green, sky blue, light yellow | `#9AE6B4`, `#90CDF4`, `#FAF089` |
+| Background | Pure white, soft mint              | `#FFFFFF`, `#F0FFF4`            |
+| Accents    | Leaf green, water blue             | `#48BB78`, `#4299E1`            |
 
 ## Visual Elements
 
@@ -54,14 +54,14 @@ decorations:
 
 ## Best Layout Pairings
 
-| Layout | Compatibility | Use Case |
-|--------|---------------|----------|
-| sparse | ✓✓ | Clean covers |
-| balanced | ✓✓ | Standard fresh content |
-| dense | ✓ | Organized information |
-| list | ✓ | Wellness tips |
-| comparison | ✓ | Before/after health |
-| flow | ✓✓ | Organic processes |
+| Layout     | Compatibility | Use Case               |
+| ---------- | ------------- | ---------------------- |
+| sparse     | ✓✓            | Clean covers           |
+| balanced   | ✓✓            | Standard fresh content |
+| dense      | ✓             | Organized information  |
+| list       | ✓             | Wellness tips          |
+| comparison | ✓             | Before/after health    |
+| flow       | ✓✓            | Organic processes      |
 
 ## Best For
 

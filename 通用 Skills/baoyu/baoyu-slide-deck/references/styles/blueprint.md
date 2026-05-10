@@ -8,7 +8,7 @@ Clean, structured visual metaphors using blueprints, diagrams, and schematics. P
 
 ## Background
 
-- Color: Blueprint Off-White (#FAF8F5)
+- Color: Blueprint Off-White (`#FAF8F5`)
 - Texture: Subtle grid overlay, light engineering paper feel
 
 ## Typography
@@ -23,15 +23,15 @@ Tiempos Text or similar elegant serif for body explanations. Clean, readable at 
 
 ## Color Palette
 
-| Role | Color | Hex | Usage |
-|------|-------|-----|-------|
-| Background | Blueprint Paper | #FAF8F5 | Primary background |
-| Grid | Light Gray | #E5E5E5 | Background grid lines |
-| Primary Text | Deep Slate | #334155 | Headlines, body text |
-| Primary Accent | Engineering Blue | #2563EB | Key elements, highlights |
-| Secondary Accent | Navy Blue | #1E3A5F | Supporting elements |
-| Tertiary | Light Blue | #BFDBFE | Backgrounds, fills |
-| Warning | Amber | #F59E0B | Warnings, emphasis points |
+| Role             | Color            | Hex       | Usage                     |
+| ---------------- | ---------------- | --------- | ------------------------- |
+| Background       | Blueprint Paper  | `#FAF8F5` | Primary background        |
+| Grid             | Light Gray       | `#E5E5E5` | Background grid lines     |
+| Primary Text     | Deep Slate       | `#334155` | Headlines, body text      |
+| Primary Accent   | Engineering Blue | `#2563EB` | Key elements, highlights  |
+| Secondary Accent | Navy Blue        | `#1E3A5F` | Supporting elements       |
+| Tertiary         | Light Blue       | `#BFDBFE` | Backgrounds, fills        |
+| Warning          | Amber            | `#F59E0B` | Warnings, emphasis points |
 
 ## Visual Elements
 

@@ -8,22 +8,22 @@ Contemporary flat design aesthetic with bold shapes and limited depth. Clean geo
 
 ## Background
 
-- Color: White (#FFFFFF) or Soft Gray (#F5F5F5)
+- Color: White (`#FFFFFF`) or Soft Gray (`#F5F5F5`)
 - Texture: None - clean solid backgrounds
 
 ## Color Palette
 
-| Role | Color | Hex | Usage |
-|------|-------|-----|-------|
-| Background | White | #FFFFFF | Primary background |
-| Alt Background | Soft Gray | #F5F5F5 | Accent areas |
-| Primary | Vibrant Blue | #3B82F6 | Main elements |
-| Secondary | Coral | #F97316 | Supporting elements |
-| Tertiary | Emerald | #10B981 | Accent elements |
-| Accent 1 | Purple | #8B5CF6 | Additional accent |
-| Accent 2 | Amber | #F59E0B | Highlight |
-| Text | Dark Slate | #1E293B | Text elements |
-| Light | Light Gray | #E5E7EB | Subtle elements |
+| Role           | Color        | Hex       | Usage               |
+| -------------- | ------------ | --------- | ------------------- |
+| Background     | White        | `#FFFFFF` | Primary background  |
+| Alt Background | Soft Gray    | `#F5F5F5` | Accent areas        |
+| Primary        | Vibrant Blue | `#3B82F6` | Main elements       |
+| Secondary      | Coral        | `#F97316` | Supporting elements |
+| Tertiary       | Emerald      | `#10B981` | Accent elements     |
+| Accent 1       | Purple       | `#8B5CF6` | Additional accent   |
+| Accent 2       | Amber        | `#F59E0B` | Highlight           |
+| Text           | Dark Slate   | `#1E293B` | Text elements       |
+| Light          | Light Gray   | `#E5E7EB` | Subtle elements     |
 
 ## Visual Elements
 

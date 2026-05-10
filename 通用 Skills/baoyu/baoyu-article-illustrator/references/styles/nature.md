@@ -8,21 +8,21 @@ Natural and organic visual approach inspired by the outdoors. Earth tones and na
 
 ## Background
 
-- Color: Sand Beige (#F5E6D3) or Sky Blue wash (#E0F2FE)
+- Color: Sand Beige (`#F5E6D3`) or Sky Blue wash (`#E0F2FE`)
 - Texture: Natural paper texture with organic feel
 
 ## Color Palette
 
-| Role | Color | Hex | Usage |
-|------|-------|-----|-------|
-| Background | Sand Beige | #F5E6D3 | Primary background |
-| Alt Background | Sky Blue | #E0F2FE | Alternative canvas |
-| Primary | Forest Green | #276749 | Main natural color |
-| Secondary | Sage | #9AE6B4 | Supporting green |
-| Tertiary | Earth Brown | #744210 | Grounding element |
-| Accent 1 | Sunset Orange | #ED8936 | Warm accent |
-| Accent 2 | Water Blue | #63B3ED | Cool accent |
-| Text | Deep Brown | #5D4E3C | Text elements |
+| Role           | Color         | Hex       | Usage              |
+| -------------- | ------------- | --------- | ------------------ |
+| Background     | Sand Beige    | `#F5E6D3` | Primary background |
+| Alt Background | Sky Blue      | `#E0F2FE` | Alternative canvas |
+| Primary        | Forest Green  | `#276749` | Main natural color |
+| Secondary      | Sage          | `#9AE6B4` | Supporting green   |
+| Tertiary       | Earth Brown   | `#744210` | Grounding element  |
+| Accent 1       | Sunset Orange | `#ED8936` | Warm accent        |
+| Accent 2       | Water Blue    | `#63B3ED` | Cool accent        |
+| Text           | Deep Brown    | `#5D4E3C` | Text elements      |
 
 ## Visual Elements
 

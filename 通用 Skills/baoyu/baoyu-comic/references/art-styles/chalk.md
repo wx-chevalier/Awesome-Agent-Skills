@@ -24,7 +24,7 @@ Classic classroom chalkboard aesthetic with hand-drawn chalk illustrations. Nost
 
 ## Background
 
-- Chalkboard Black (#1A1A1A) or Dark Green-Black (#1C2B1C)
+- Chalkboard Black (`#1A1A1A`) or Dark Green-Black (`#1C2B1C`)
 - Realistic chalkboard texture
 - Subtle scratches and dust particles
 - Faint eraser marks for authenticity
@@ -49,20 +49,21 @@ Classic classroom chalkboard aesthetic with hand-drawn chalk illustrations. Nost
 
 ## Default Color Palette
 
-| Role | Color | Hex |
-|------|-------|-----|
-| Background | Chalkboard Black | #1A1A1A |
-| Alt Background | Green-Black | #1C2B1C |
-| Primary Text | Chalk White | #F5F5F5 |
-| Accent 1 | Chalk Yellow | #FFE566 |
-| Accent 2 | Chalk Pink | #FF9999 |
-| Accent 3 | Chalk Blue | #66B3FF |
-| Accent 4 | Chalk Green | #90EE90 |
-| Accent 5 | Chalk Orange | #FFB366 |
+| Role           | Color            | Hex       |
+| -------------- | ---------------- | --------- |
+| Background     | Chalkboard Black | `#1A1A1A` |
+| Alt Background | Green-Black      | `#1C2B1C` |
+| Primary Text   | Chalk White      | `#F5F5F5` |
+| Accent 1       | Chalk Yellow     | `#FFE566` |
+| Accent 2       | Chalk Pink       | `#FF9999` |
+| Accent 3       | Chalk Blue       | `#66B3FF` |
+| Accent 4       | Chalk Green      | `#90EE90` |
+| Accent 5       | Chalk Orange     | `#FFB366` |
 
 ## Style Rules
 
 ### Do
+
 - Maintain authentic chalk texture on all elements
 - Use imperfect, hand-drawn quality throughout
 - Add subtle chalk dust and smudge effects
@@ -70,6 +71,7 @@ Classic classroom chalkboard aesthetic with hand-drawn chalk illustrations. Nost
 - Include playful doodles and annotations
 
 ### Don't
+
 - Use perfect geometric shapes
 - Create clean digital-looking lines
 - Add photorealistic elements
@@ -86,15 +88,15 @@ Classic classroom chalkboard aesthetic with hand-drawn chalk illustrations. Nost
 
 ## Compatibility
 
-| Tone | Fit | Notes |
-|------|-----|-------|
-| neutral | ✓✓ | Classic educational |
-| warm | ✓✓ | Nostalgic feel |
-| dramatic | ✗ | Style mismatch |
-| vintage | ✓ | Old school feel |
-| romantic | ✗ | Style mismatch |
-| energetic | ✓✓ | Fun learning |
-| action | ✗ | Style mismatch |
+| Tone      | Fit | Notes               |
+| --------- | --- | ------------------- |
+| neutral   | ✓✓  | Classic educational |
+| warm      | ✓✓  | Nostalgic feel      |
+| dramatic  | ✗   | Style mismatch      |
+| vintage   | ✓   | Old school feel     |
+| romantic  | ✗   | Style mismatch      |
+| energetic | ✓✓  | Fun learning        |
+| action    | ✗   | Style mismatch      |
 
 ## Best For
 

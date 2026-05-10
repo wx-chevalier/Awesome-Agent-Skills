@@ -33,11 +33,11 @@ decorations:
 
 ## Color Palette
 
-| Role | Colors | Hex |
-|------|--------|-----|
-| Primary | Bright red, yellow, blue, green | #F56565, #ECC94B, #4299E1, #48BB78 |
-| Background | White, light gray | #FFFFFF, #F7FAFC |
-| Accents | Neon pink, electric purple | #FF69B4, #9F7AEA |
+| Role       | Colors                          | Hex                                        |
+| ---------- | ------------------------------- | ------------------------------------------ |
+| Primary    | Bright red, yellow, blue, green | `#F56565`, `#ECC94B`, `#4299E1`, `#48BB78` |
+| Background | White, light gray               | `#FFFFFF`, `#F7FAFC`                       |
+| Accents    | Neon pink, electric purple      | `#FF69B4`, `#9F7AEA`                       |
 
 ## Visual Elements
 
@@ -54,14 +54,14 @@ decorations:
 
 ## Best Layout Pairings
 
-| Layout | Compatibility | Use Case |
-|--------|---------------|----------|
-| sparse | ✓✓ | Exciting announcements |
-| balanced | ✓✓ | Fun tutorials |
-| dense | ✓ | Packed information |
-| list | ✓✓ | Fun facts lists |
-| comparison | ✓✓ | Dynamic comparisons |
-| flow | ✓ | Energetic processes |
+| Layout     | Compatibility | Use Case               |
+| ---------- | ------------- | ---------------------- |
+| sparse     | ✓✓            | Exciting announcements |
+| balanced   | ✓✓            | Fun tutorials          |
+| dense      | ✓             | Packed information     |
+| list       | ✓✓            | Fun facts lists        |
+| comparison | ✓✓            | Dynamic comparisons    |
+| flow       | ✓             | Energetic processes    |
 
 ## Best For
 

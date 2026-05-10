@@ -25,13 +25,13 @@ Traditional Chinese ink brush painting style adapted for comics. Combines callig
 
 ## Brush Techniques
 
-| Technique | Usage |
-|-----------|-------|
-| Bold strokes | Character outlines |
-| Fine lines | Details, hair |
-| Ink wash | Atmosphere, shadows |
-| Dry brush | Texture, aging |
-| Splatter | Impact, drama |
+| Technique    | Usage               |
+| ------------ | ------------------- |
+| Bold strokes | Character outlines  |
+| Fine lines   | Details, hair       |
+| Ink wash     | Atmosphere, shadows |
+| Dry brush    | Texture, aging      |
+| Splatter     | Impact, drama       |
 
 ## Background Treatment
 
@@ -52,15 +52,15 @@ Traditional Chinese ink brush painting style adapted for comics. Combines callig
 
 ## Default Color Palette
 
-| Role | Color | Hex |
-|------|-------|-----|
-| Primary | Deep black ink | #1A1A1A |
-| Accent | Crimson red | #8B0000 |
-| Accent | Imperial gold | #D4AF37 |
-| Skin | Natural tan | #D4A574 |
-| Background | Misty gray | #9CA3AF |
-| Background | Earth tone | #8B7355 |
-| Wash | Ink gradient | #2D3748 |
+| Role       | Color          | Hex       |
+| ---------- | -------------- | --------- |
+| Primary    | Deep black ink | `#1A1A1A` |
+| Accent     | Crimson red    | `#8B0000` |
+| Accent     | Imperial gold  | `#D4AF37` |
+| Skin       | Natural tan    | `#D4A574` |
+| Background | Misty gray     | `#9CA3AF` |
+| Background | Earth tone     | `#8B7355` |
+| Wash       | Ink gradient   | `#2D3748` |
 
 ## Visual Elements
 
@@ -82,15 +82,15 @@ Traditional Chinese ink brush painting style adapted for comics. Combines callig
 
 ## Compatibility
 
-| Tone | Fit | Notes |
-|------|-----|-------|
-| neutral | ✓ | Contemplative stories |
-| warm | ✓ | Nostalgic, gentle |
-| dramatic | ✓✓ | High contrast |
-| vintage | ✓✓ | Historical pieces |
-| romantic | ✗ | Style mismatch |
-| energetic | ✗ | Too refined |
-| action | ✓✓ | Martial arts |
+| Tone      | Fit | Notes                 |
+| --------- | --- | --------------------- |
+| neutral   | ✓   | Contemplative stories |
+| warm      | ✓   | Nostalgic, gentle     |
+| dramatic  | ✓✓  | High contrast         |
+| vintage   | ✓✓  | Historical pieces     |
+| romantic  | ✗   | Style mismatch        |
+| energetic | ✗   | Too refined           |
+| action    | ✓✓  | Martial arts          |
 
 ## Best For
 

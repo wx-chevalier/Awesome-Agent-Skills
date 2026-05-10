@@ -8,7 +8,7 @@ Nostalgic vintage aesthetic with aged paper textures and historical document sty
 
 ## Background
 
-- Color: Aged Parchment (#F5E6D3) or Sepia Cream (#FFF8DC)
+- Color: Aged Parchment (`#F5E6D3`) or Sepia Cream (`#FFF8DC`)
 - Texture: Heavy aged paper texture with subtle creases, coffee stains, and worn edges
 
 ## Typography
@@ -27,17 +27,17 @@ Readable serif for longer text. Traditional book typography. Comfortable reading
 
 ## Color Palette
 
-| Role | Color | Hex | Usage |
-|------|-------|-----|-------|
-| Background | Aged Parchment | #F5E6D3 | Primary background |
-| Alt Background | Sepia Cream | #FFF8DC | Secondary areas |
-| Primary Text | Dark Brown | #3D2914 | Headlines, body |
-| Secondary Text | Medium Brown | #6B4423 | Annotations |
-| Accent 1 | Forest Green | #2D5A3D | Maps, nature |
-| Accent 2 | Navy Blue | #1E3A5F | Ocean, lines |
-| Accent 3 | Burgundy | #722F37 | Emphasis, borders |
-| Accent 4 | Gold | #C9A227 | Highlights, compass |
-| Ink | Sepia Black | #3D3D3D | Fine details |
+| Role           | Color          | Hex       | Usage               |
+| -------------- | -------------- | --------- | ------------------- |
+| Background     | Aged Parchment | `#F5E6D3` | Primary background  |
+| Alt Background | Sepia Cream    | `#FFF8DC` | Secondary areas     |
+| Primary Text   | Dark Brown     | `#3D2914` | Headlines, body     |
+| Secondary Text | Medium Brown   | `#6B4423` | Annotations         |
+| Accent 1       | Forest Green   | `#2D5A3D` | Maps, nature        |
+| Accent 2       | Navy Blue      | `#1E3A5F` | Ocean, lines        |
+| Accent 3       | Burgundy       | `#722F37` | Emphasis, borders   |
+| Accent 4       | Gold           | `#C9A227` | Highlights, compass |
+| Ink            | Sepia Black    | `#3D3D3D` | Fine details        |
 
 ## Visual Elements
 

@@ -8,7 +8,7 @@ Flat vector illustration with no gradients or 3D effects. Clear, uniform-thickne
 
 ## Background
 
-- Color: Cream Off-White (#F5F0E6)
+- Color: Cream Off-White (`#F5F0E6`)
 - Texture: Subtle paper texture, warm nostalgic feel reminiscent of vintage prints
 
 ## Typography
@@ -27,16 +27,16 @@ Clean geometric sans-serif for readability. Futura, Avenir, or similar. Consiste
 
 ## Color Palette
 
-| Role | Color | Hex | Usage |
-|------|-------|-----|-------|
-| Background | Cream Off-White | #F5F0E6 | Primary background |
-| Outlines | Deep Charcoal | #2D2D2D | All element outlines |
-| Primary Text | Black | #1A1A1A | Headlines, body |
-| Accent 1 | Coral Red | #E07A5F | Primary accent, warmth |
-| Accent 2 | Mint Green | #81B29A | Secondary accent, nature |
-| Accent 3 | Mustard Yellow | #F2CC8F | Highlights, energy |
-| Accent 4 | Burnt Orange | #D4764A | Tertiary accent |
-| Accent 5 | Rock Blue | #577590 | Cool balance, tech |
+| Role         | Color           | Hex       | Usage                    |
+| ------------ | --------------- | --------- | ------------------------ |
+| Background   | Cream Off-White | `#F5F0E6` | Primary background       |
+| Outlines     | Deep Charcoal   | `#2D2D2D` | All element outlines     |
+| Primary Text | Black           | `#1A1A1A` | Headlines, body          |
+| Accent 1     | Coral Red       | `#E07A5F` | Primary accent, warmth   |
+| Accent 2     | Mint Green      | `#81B29A` | Secondary accent, nature |
+| Accent 3     | Mustard Yellow  | `#F2CC8F` | Highlights, energy       |
+| Accent 4     | Burnt Orange    | `#D4764A` | Tertiary accent          |
+| Accent 5     | Rock Blue       | `#577590` | Cool balance, tech       |
 
 ## Visual Elements
 

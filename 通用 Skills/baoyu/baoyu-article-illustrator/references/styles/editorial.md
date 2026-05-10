@@ -8,22 +8,22 @@ High-quality magazine explainer aesthetic. Clear visual storytelling with struct
 
 ## Background
 
-- Color: Pure White (#FFFFFF) or Light Gray (#F8F9FA)
+- Color: Pure White (`#FFFFFF`) or Light Gray (`#F8F9FA`)
 - Texture: None or subtle paper grain
 
 ## Color Palette
 
-| Role | Color | Hex | Usage |
-|------|-------|-----|-------|
-| Background | Pure White | #FFFFFF | Primary background |
-| Alt Background | Light Gray | #F8F9FA | Section backgrounds |
-| Primary Text | Near Black | #1A1A1A | Headlines, body |
-| Secondary Text | Dark Gray | #4A5568 | Captions |
-| Accent 1 | Editorial Blue | #2563EB | Primary accent |
-| Accent 2 | Coral | #F97316 | Secondary accent |
-| Accent 3 | Emerald | #10B981 | Positive elements |
-| Accent 4 | Amber | #F59E0B | Attention points |
-| Dividers | Medium Gray | #D1D5DB | Section dividers |
+| Role           | Color          | Hex       | Usage               |
+| -------------- | -------------- | --------- | ------------------- |
+| Background     | Pure White     | `#FFFFFF` | Primary background  |
+| Alt Background | Light Gray     | `#F8F9FA` | Section backgrounds |
+| Primary Text   | Near Black     | `#1A1A1A` | Headlines, body     |
+| Secondary Text | Dark Gray      | `#4A5568` | Captions            |
+| Accent 1       | Editorial Blue | `#2563EB` | Primary accent      |
+| Accent 2       | Coral          | `#F97316` | Secondary accent    |
+| Accent 3       | Emerald        | `#10B981` | Positive elements   |
+| Accent 4       | Amber          | `#F59E0B` | Attention points    |
+| Dividers       | Medium Gray    | `#D1D5DB` | Section dividers    |
 
 ## Visual Elements
 

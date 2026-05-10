@@ -4,9 +4,9 @@
 
 ## Color Palette
 
-- Background: Warm vintage cream/beige (#F5F0E6)
+- Background: Warm vintage cream/beige (`#F5F0E6`)
 - Flat accents: Salmon pink, sky blue, mustard yellow, mint green—all muted retro tones
-- Contrast blocks: Solid pure black (#000000) and solid pure white (#FFFFFF) used strategically for extreme contrast
+- Contrast blocks: Solid pure black (`#000000`) and solid pure white (`#FFFFFF`) used strategically for extreme contrast
 - Line art and outlines: Solid thick black
 
 ## Visual Elements

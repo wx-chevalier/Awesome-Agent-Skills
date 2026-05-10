@@ -4,15 +4,15 @@ Cinematic, premium, atmospheric
 
 ## Color Palette
 
-| Role | Color | Hex |
-|------|-------|-----|
-| Primary 1 | Electric Purple | #8B5CF6 |
-| Primary 2 | Cyan Blue | #06B6D4 |
-| Primary 3 | Magenta Pink | #EC4899 |
-| Background | Deep Purple-Black | #0A0A0A |
-| Background Alt | Rich Navy | #1A1A2E |
-| Accent 1 | Amber | #F59E0B |
-| Accent 2 | Pure White | #FFFFFF |
+| Role           | Color             | Hex       |
+| -------------- | ----------------- | --------- |
+| Primary 1      | Electric Purple   | `#8B5CF6` |
+| Primary 2      | Cyan Blue         | `#06B6D4` |
+| Primary 3      | Magenta Pink      | `#EC4899` |
+| Background     | Deep Purple-Black | `#0A0A0A` |
+| Background Alt | Rich Navy         | `#1A1A2E` |
+| Accent 1       | Amber             | `#F59E0B` |
+| Accent 2       | Pure White        | `#FFFFFF` |
 
 ## Decorative Hints
 

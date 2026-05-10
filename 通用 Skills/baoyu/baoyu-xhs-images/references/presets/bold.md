@@ -33,11 +33,11 @@ decorations:
 
 ## Color Palette
 
-| Role | Colors | Hex |
-|------|--------|-----|
-| Primary | Vibrant red, orange, yellow | #E53E3E, #DD6B20, #F6E05E |
-| Background | Deep black, dark charcoal | #000000, #1A1A1A |
-| Accents | White, neon yellow | #FFFFFF, #F7FF00 |
+| Role       | Colors                      | Hex                             |
+| ---------- | --------------------------- | ------------------------------- |
+| Primary    | Vibrant red, orange, yellow | `#E53E3E`, `#DD6B20`, `#F6E05E` |
+| Background | Deep black, dark charcoal   | `#000000`, `#1A1A1A`            |
+| Accents    | White, neon yellow          | `#FFFFFF`, `#F7FF00`            |
 
 ## Visual Elements
 
@@ -54,14 +54,14 @@ decorations:
 
 ## Best Layout Pairings
 
-| Layout | Compatibility | Use Case |
-|--------|---------------|----------|
-| sparse | ✓✓ | Impactful statements |
-| balanced | ✓ | Warning content |
-| dense | ✓ | Critical information cards |
-| list | ✓✓ | Must-know lists, rankings |
-| comparison | ✓✓ | Dramatic contrasts |
-| flow | ✓ | Critical process steps |
+| Layout     | Compatibility | Use Case                   |
+| ---------- | ------------- | -------------------------- |
+| sparse     | ✓✓            | Impactful statements       |
+| balanced   | ✓             | Warning content            |
+| dense      | ✓             | Critical information cards |
+| list       | ✓✓            | Must-know lists, rankings  |
+| comparison | ✓✓            | Dramatic contrasts         |
+| flow       | ✓             | Critical process steps     |
 
 ## Best For
 

@@ -8,7 +8,7 @@ Clean lines, structured layouts, and business-appropriate sophistication. Projec
 
 ## Background
 
-- Color: Pure White (#FFFFFF) with navy structural elements
+- Color: Pure White (`#FFFFFF`) with navy structural elements
 - Texture: None - crisp digital clarity for maximum professionalism
 
 ## Typography
@@ -23,16 +23,16 @@ Humanist sans-serif (Source Sans Pro style) for body text. Friendly yet professi
 
 ## Color Palette
 
-| Role | Color | Hex | Usage |
-|------|-------|-----|-------|
-| Background | Pure White | #FFFFFF | Main slide background |
-| Primary Text | Navy | #1E3A5F | Headlines, key text |
-| Secondary Text | Dark Gray | #4A5568 | Body text |
-| Primary Accent | Gold | #C9A227 | Premium highlights, emphasis |
-| Secondary Accent | Light Navy | #3D5A80 | Secondary elements |
-| Success | Corporate Green | #059669 | Positive metrics |
-| Alert | Corporate Red | #DC2626 | Attention items |
-| Neutral | Light Gray | #F3F4F6 | Background sections |
+| Role             | Color           | Hex       | Usage                        |
+| ---------------- | --------------- | --------- | ---------------------------- |
+| Background       | Pure White      | `#FFFFFF` | Main slide background        |
+| Primary Text     | Navy            | `#1E3A5F` | Headlines, key text          |
+| Secondary Text   | Dark Gray       | `#4A5568` | Body text                    |
+| Primary Accent   | Gold            | `#C9A227` | Premium highlights, emphasis |
+| Secondary Accent | Light Navy      | `#3D5A80` | Secondary elements           |
+| Success          | Corporate Green | `#059669` | Positive metrics             |
+| Alert            | Corporate Red   | `#DC2626` | Attention items              |
+| Neutral          | Light Gray      | `#F3F4F6` | Background sections          |
 
 ## Visual Elements
 

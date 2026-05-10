@@ -4,16 +4,16 @@ Technical diagrams with engineering precision and clean geometry.
 
 ## Color Palette
 
-- Primary: Blues (#2563EB), teals, grays, white lines
-- Background: Deep blue (#1E3A5F), white, or light gray with grid
-- Accents: Amber highlights (#F59E0B), cyan callouts
+- Primary: Blues (`#2563EB`), teals, grays, white lines
+- Background: Deep blue (`#1E3A5F`), white, or light gray with grid
+- Accents: Amber highlights (`#F59E0B`), cyan callouts
 
 ## Variants
 
-| Variant | Focus | Visual Emphasis |
-|---------|-------|-----------------|
-| **Blueprint** | Engineering schematics | White on blue, measurements, grid |
-| **Isometric** | 3D spatial representation | 30° angle blocks, clean fills |
+| Variant       | Focus                     | Visual Emphasis                   |
+| ------------- | ------------------------- | --------------------------------- |
+| **Blueprint** | Engineering schematics    | White on blue, measurements, grid |
+| **Isometric** | 3D spatial representation | 30° angle blocks, clean fills     |
 
 ## Visual Elements
 

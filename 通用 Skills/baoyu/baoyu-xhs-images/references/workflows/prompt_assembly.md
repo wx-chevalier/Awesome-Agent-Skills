@@ -66,6 +66,7 @@ Load from `presets/{style}.md` and extract key elements:
 ## Style: {style_name}
 
 **Color Palette**:
+
 - Primary: {colors}
 - Background: {colors}
 - Accents: {colors}
@@ -117,7 +118,7 @@ From outline entry:
 ## Watermark
 
 Include a subtle watermark "{content}" positioned at {position}
-with approximately {opacity*100}% visibility. The watermark should
+with approximately {opacity\*100}% visibility. The watermark should
 be legible but not distracting from the main content.
 ```
 
@@ -130,6 +131,7 @@ preset = load_preset(style_name)  # e.g., "notion"
 ```
 
 Extract:
+
 - Color palette
 - Visual elements
 - Typography style
@@ -142,6 +144,7 @@ layout = get_layout_from_canvas(layout_name)  # e.g., "dense"
 ```
 
 Extract:
+
 - Information density guidelines
 - Whitespace percentage
 - Structure description
@@ -150,6 +153,7 @@ Extract:
 ### Step 3: Format Content
 
 From outline entry, format:
+
 - Position context (Cover/Content/Ending)
 - Text content with hierarchy
 - Visual concept description
@@ -158,6 +162,7 @@ From outline entry, format:
 ### Step 4: Add Watermark (if applicable)
 
 If preferences include watermark:
+
 - Add watermark section with content, position, opacity
 
 ### Step 5: Visual Consistency — Reference Image Chain
@@ -216,17 +221,20 @@ Create a Xiaohongshu (Little Red Book) style infographic following these guideli
 ## Style: Notion
 
 **Color Palette**:
-- Primary: Black (#1A1A1A), dark gray (#4A4A4A)
-- Background: Pure white (#FFFFFF), off-white (#FAFAFA)
-- Accents: Pastel blue (#A8D4F0), pastel yellow (#F9E79F), pastel pink (#FADBD8)
+
+- Primary: Black (`#1A1A1A`), dark gray (`#4A4A4A`)
+- Background: Pure white (`#FFFFFF`), off-white (`#FAFAFA`)
+- Accents: Pastel blue (`#A8D4F0`), pastel yellow (`#F9E79F`), pastel pink (`#FADBD8`)
 
 **Visual Elements**:
+
 - Simple line doodles, hand-drawn wobble effect
 - Geometric shapes, stick figures
 - Maximum whitespace, single-weight ink lines
 - Clean, uncluttered compositions
 
 **Typography**:
+
 - Clean hand-drawn lettering
 - Simple sans-serif labels
 - Minimal decoration on text
@@ -239,11 +247,13 @@ Create a Xiaohongshu (Little Red Book) style infographic following these guideli
 **Whitespace**: 20-30% of canvas
 
 **Structure**:
+
 - Multiple sections, structured grid
 - More text, compact but organized
 - Title + multiple sections with headers + numerous points
 
 **Visual Balance**:
+
 - Organized grid structure
 - Clear section boundaries
 - Compact but readable spacing
@@ -256,6 +266,7 @@ Create a Xiaohongshu (Little Red Book) style infographic following these guideli
 **Core Message**: ChatGPT使用技巧
 
 **Text Content**:
+
 - Title: 「ChatGPT」
 - Subtitle: 最强AI助手
 - Points:

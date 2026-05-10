@@ -8,22 +8,22 @@ Whimsical and entertaining visual approach that sparks joy. Pastel colors with b
 
 ## Background
 
-- Color: Light Cream (#FFFBEB) or Soft White (#FFF)
+- Color: Light Cream (`#FFFBEB`) or Soft White (`#FFF`)
 - Texture: Subtle, playful pattern or clean
 
 ## Color Palette
 
-| Role | Color | Hex | Usage |
-|------|-------|-----|-------|
-| Background | Light Cream | #FFFBEB | Primary background |
-| Primary | Pastel Pink | #FED7E2 | Soft warmth |
-| Secondary | Mint | #C6F6D5 | Fresh energy |
-| Tertiary | Lavender | #E9D8FD | Dreamy touch |
-| Accent 1 | Sky Blue | #BEE3F8 | Calm brightness |
-| Accent 2 | Bright Yellow | #FBBF24 | Energy pop |
-| Accent 3 | Coral | #F6AD55 | Warm pop |
-| Accent 4 | Turquoise | #38B2AC | Cool pop |
-| Text | Soft Charcoal | #4A4A4A | Text elements |
+| Role       | Color         | Hex       | Usage              |
+| ---------- | ------------- | --------- | ------------------ |
+| Background | Light Cream   | `#FFFBEB` | Primary background |
+| Primary    | Pastel Pink   | `#FED7E2` | Soft warmth        |
+| Secondary  | Mint          | `#C6F6D5` | Fresh energy       |
+| Tertiary   | Lavender      | `#E9D8FD` | Dreamy touch       |
+| Accent 1   | Sky Blue      | `#BEE3F8` | Calm brightness    |
+| Accent 2   | Bright Yellow | `#FBBF24` | Energy pop         |
+| Accent 3   | Coral         | `#F6AD55` | Warm pop           |
+| Accent 4   | Turquoise     | `#38B2AC` | Cool pop           |
+| Text       | Soft Charcoal | `#4A4A4A` | Text elements      |
 
 ## Visual Elements
 

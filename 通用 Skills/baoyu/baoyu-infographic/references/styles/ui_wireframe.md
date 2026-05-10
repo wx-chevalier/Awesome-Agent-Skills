@@ -4,9 +4,9 @@ Grayscale interface mockup style
 
 ## Color Palette
 
-- Primary: Grays - light (#E5E5E5), medium (#9CA3AF), dark (#374151)
-- Background: White (#FFFFFF), light gray
-- Accents: Blue for interactive (#3B82F6), red for emphasis
+- Primary: Grays - light (`#E5E5E5`), medium (`#9CA3AF`), dark (`#374151`)
+- Background: White (`#FFFFFF`), light gray
+- Accents: Blue for interactive (`#3B82F6`), red for emphasis
 
 ## Visual Elements
 

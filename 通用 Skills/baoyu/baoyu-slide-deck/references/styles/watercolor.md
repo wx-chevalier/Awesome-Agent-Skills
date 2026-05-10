@@ -8,7 +8,7 @@ Gentle watercolor aesthetic with visible brush strokes and natural color bleedin
 
 ## Background
 
-- Color: Warm Off-White (#FAF8F0) or Soft Cream (#FFF9E6)
+- Color: Warm Off-White (`#FAF8F0`) or Soft Cream (`#FFF9E6`)
 - Texture: Subtle watercolor paper texture with visible grain
 
 ## Typography
@@ -23,16 +23,16 @@ Clean rounded sans-serif or casual handwriting style. Readable at smaller sizes.
 
 ## Color Palette
 
-| Role | Color | Hex | Usage |
-|------|-------|-----|-------|
-| Background | Warm Off-White | #FAF8F0 | Primary background |
-| Primary Text | Warm Charcoal | #3D3D3D | Headlines, body |
-| Accent 1 | Soft Coral | #F4A261 | Primary warmth |
-| Accent 2 | Dusty Rose | #E8A0A0 | Secondary warmth |
-| Accent 3 | Sage Green | #87A96B | Nature, growth |
-| Accent 4 | Sky Blue | #7EC8E3 | Water, calm |
-| Accent 5 | Soft Lavender | #C5B4E3 | Accent, creativity |
-| Wash | Pale Yellow | #FFF3C4 | Background washes |
+| Role         | Color          | Hex       | Usage              |
+| ------------ | -------------- | --------- | ------------------ |
+| Background   | Warm Off-White | `#FAF8F0` | Primary background |
+| Primary Text | Warm Charcoal  | `#3D3D3D` | Headlines, body    |
+| Accent 1     | Soft Coral     | `#F4A261` | Primary warmth     |
+| Accent 2     | Dusty Rose     | `#E8A0A0` | Secondary warmth   |
+| Accent 3     | Sage Green     | `#87A96B` | Nature, growth     |
+| Accent 4     | Sky Blue       | `#7EC8E3` | Water, calm        |
+| Accent 5     | Soft Lavender  | `#C5B4E3` | Accent, creativity |
+| Wash         | Pale Yellow    | `#FFF3C4` | Background washes  |
 
 ## Visual Elements
 

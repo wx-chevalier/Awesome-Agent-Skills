@@ -8,7 +8,7 @@ Classic classroom chalkboard aesthetic with hand-drawn chalk illustrations. Nost
 
 ## Background
 
-- Color: Chalkboard Black (#1A1A1A) or Dark Green-Black (#1C2B1C)
+- Color: Chalkboard Black (`#1A1A1A`) or Dark Green-Black (`#1C2B1C`)
 - Texture: Realistic chalkboard texture with subtle scratches, dust particles, and faint eraser marks
 
 ## Typography
@@ -23,16 +23,16 @@ Neater chalk handwriting for readability. Consistent sizing with natural variati
 
 ## Color Palette
 
-| Role | Color | Hex | Usage |
-|------|-------|-----|-------|
-| Background | Chalkboard Black | #1A1A1A | Primary background |
-| Alt Background | Green-Black | #1C2B1C | Traditional green board |
-| Primary Text | Chalk White | #F5F5F5 | Main text, outlines |
-| Accent 1 | Chalk Yellow | #FFE566 | Highlights, emphasis |
-| Accent 2 | Chalk Pink | #FF9999 | Secondary highlights |
-| Accent 3 | Chalk Blue | #66B3FF | Diagrams, links |
-| Accent 4 | Chalk Green | #90EE90 | Success, nature |
-| Accent 5 | Chalk Orange | #FFB366 | Warnings, energy |
+| Role           | Color            | Hex       | Usage                   |
+| -------------- | ---------------- | --------- | ----------------------- |
+| Background     | Chalkboard Black | `#1A1A1A` | Primary background      |
+| Alt Background | Green-Black      | `#1C2B1C` | Traditional green board |
+| Primary Text   | Chalk White      | `#F5F5F5` | Main text, outlines     |
+| Accent 1       | Chalk Yellow     | `#FFE566` | Highlights, emphasis    |
+| Accent 2       | Chalk Pink       | `#FF9999` | Secondary highlights    |
+| Accent 3       | Chalk Blue       | `#66B3FF` | Diagrams, links         |
+| Accent 4       | Chalk Green      | `#90EE90` | Success, nature         |
+| Accent 5       | Chalk Orange     | `#FFB366` | Warnings, energy        |
 
 ## Visual Elements
 

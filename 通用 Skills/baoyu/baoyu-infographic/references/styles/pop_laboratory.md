@@ -4,11 +4,11 @@ Lab manual precision meets pop art color impact—coordinate systems, technical 
 
 ## Color Palette
 
-- Background: Professional grayish-white with faint blueprint grid texture (#F2F2F2)
-- Primary: Muted teal/sage green (#B8D8BE) for major functional blocks and data zones
-- High-alert accent: Vibrant fluorescent pink (#E91E63) strictly for warnings, critical data, or "winner" highlights
-- Marker highlights: Vivid lemon yellow (#FFF200) as translucent highlighter effect for keywords
-- Line art: Ultra-fine charcoal brown (#2D2926) for technical grids, coordinates, and hairlines
+- Background: Professional grayish-white with faint blueprint grid texture (`#F2F2F2`)
+- Primary: Muted teal/sage green (`#B8D8BE`) for major functional blocks and data zones
+- High-alert accent: Vibrant fluorescent pink (`#E91E63`) strictly for warnings, critical data, or "winner" highlights
+- Marker highlights: Vivid lemon yellow (`#FFF200`) as translucent highlighter effect for keywords
+- Line art: Ultra-fine charcoal brown (`#2D2926`) for technical grids, coordinates, and hairlines
 
 ## Visual Elements
 

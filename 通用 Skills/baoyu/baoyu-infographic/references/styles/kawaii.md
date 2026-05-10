@@ -4,7 +4,7 @@ Japanese cute style with big eyes and pastel colors
 
 ## Color Palette
 
-- Primary: Soft pastels - pink (#FFB6C1), mint (#98D8C8), lavender (#E6E6FA)
+- Primary: Soft pastels - pink (`#FFB6C1`), mint (`#98D8C8`), lavender (`#E6E6FA`)
 - Background: Light pink or cream, sparkle overlays
 - Accents: Bright pops, star and heart shapes
 

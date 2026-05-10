@@ -4,11 +4,11 @@ Hand-drawn doodle illustration with warm Morandi color tones and cozy bullet jou
 
 ## Color Palette
 
-- Background: Warm cream/beige with subtle paper texture (#F5F0E6)
-- Primary: Muted teal/sage green (#7BA3A8) for headers and frames
-- Secondary: Warm terracotta/orange (#D4956A) for highlights and numbers
-- Line art: Dark charcoal brown (#4A4540)
-- Soft highlights: Pale yellow (#F5E6C8)
+- Background: Warm cream/beige with subtle paper texture (`#F5F0E6`)
+- Primary: Muted teal/sage green (`#7BA3A8`) for headers and frames
+- Secondary: Warm terracotta/orange (`#D4956A`) for highlights and numbers
+- Line art: Dark charcoal brown (`#4A4540`)
+- Soft highlights: Pale yellow (`#F5E6C8`)
 
 ## Visual Elements
 
@@ -27,17 +27,17 @@ Hand-drawn doodle illustration with warm Morandi color tones and cozy bullet jou
 
 ## Variants
 
-| Variant | Focus | Visual Emphasis |
-|---------|-------|-----------------|
-| **Cozy journal** | Maximum warmth | More washi tape, stickers, decorative doodles |
-| **Clean sketch** | Readability | Cleaner lines, less decoration, more structured |
+| Variant          | Focus          | Visual Emphasis                                 |
+| ---------------- | -------------- | ----------------------------------------------- |
+| **Cozy journal** | Maximum warmth | More washi tape, stickers, decorative doodles   |
+| **Clean sketch** | Readability    | Cleaner lines, less decoration, more structured |
 
 ## Typography
 
 - Main title: Bold hand-lettered calligraphy style with decorative flourishes
-- Module headers: Clean handwritten text in white on dark teal rounded badge (#6B9080)
+- Module headers: Clean handwritten text in white on dark teal rounded badge (`#6B9080`)
 - Body text: Neat handwritten print style, easy to read
-- Numbers: Highlighted in terracotta (#D4956A), slightly larger than body
+- Numbers: Highlighted in terracotta (`#D4956A`), slightly larger than body
 
 ## Style Enforcement
 

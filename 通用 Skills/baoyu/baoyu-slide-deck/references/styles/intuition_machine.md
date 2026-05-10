@@ -8,7 +8,7 @@ Academic/technical briefing presentation style, NOT artistic 3D renders. Clean 2
 
 ## Background
 
-- Color: Aged Cream (#F5F0E6)
+- Color: Aged Cream (`#F5F0E6`)
 - Texture: Subtle paper texture with light creases, warm nostalgic feel reminiscent of vintage technical prints
 
 ## Typography
@@ -27,16 +27,16 @@ Clean geometric sans-serif for text box content. Readable at smaller sizes. Cons
 
 ## Color Palette
 
-| Role | Color | Hex | Usage |
-|------|-------|-----|-------|
-| Background | Aged Cream | #F5F0E6 | Primary background |
-| Paper Texture | Warm White | #F5F0E1 | Blueprint paper effect |
-| Primary Text | Dark Maroon | #5D3A3A | Headlines, titles |
-| Body Text | Near Black | #1A1A1A | Text box content |
-| Accent 1 | Teal | #2F7373 | Primary illustrations |
-| Accent 2 | Warm Brown | #8B7355 | Secondary elements |
-| Accent 3 | Maroon | #722F37 | Titles, emphasis |
-| Outline | Deep Charcoal | #2D2D2D | Element outlines |
+| Role          | Color         | Hex       | Usage                  |
+| ------------- | ------------- | --------- | ---------------------- |
+| Background    | Aged Cream    | `#F5F0E6` | Primary background     |
+| Paper Texture | Warm White    | `#F5F0E1` | Blueprint paper effect |
+| Primary Text  | Dark Maroon   | `#5D3A3A` | Headlines, titles      |
+| Body Text     | Near Black    | `#1A1A1A` | Text box content       |
+| Accent 1      | Teal          | `#2F7373` | Primary illustrations  |
+| Accent 2      | Warm Brown    | `#8B7355` | Secondary elements     |
+| Accent 3      | Maroon        | `#722F37` | Titles, emphasis       |
+| Outline       | Deep Charcoal | `#2D2D2D` | Element outlines       |
 
 ## Visual Elements
 

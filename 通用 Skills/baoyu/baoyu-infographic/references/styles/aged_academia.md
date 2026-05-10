@@ -4,16 +4,16 @@ Historical scientific illustration with aged paper aesthetic.
 
 ## Color Palette
 
-- Primary: Sepia brown (#704214), aged ink, muted earth tones
-- Background: Parchment (#F4E4BC), yellowed paper texture
+- Primary: Sepia brown (`#704214`), aged ink, muted earth tones
+- Background: Parchment (`#F4E4BC`), yellowed paper texture
 - Accents: Faded red annotations, iron gall ink spots
 
 ## Variants
 
-| Variant | Focus | Visual Emphasis |
-|---------|-------|-----------------|
+| Variant      | Focus                         | Visual Emphasis                   |
+| ------------ | ----------------------------- | --------------------------------- |
 | **Notebook** | Personal sketches, inventions | Cursive notes, margin annotations |
-| **Specimen** | Scientific classification | Numbered diagrams, Latin labels |
+| **Specimen** | Scientific classification     | Numbered diagrams, Latin labels   |
 
 ## Visual Elements
 

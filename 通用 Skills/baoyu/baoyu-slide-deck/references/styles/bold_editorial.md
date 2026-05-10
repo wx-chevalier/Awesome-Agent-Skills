@@ -8,7 +8,7 @@ Strong visual impact at magazine cover level. Bold typography and dramatic contr
 
 ## Background
 
-- Color: Deep Black (#0A0A0A) primary, or Deep Blue (#0F172A) alternative
+- Color: Deep Black (`#0A0A0A`) primary, or Deep Blue (`#0F172A`) alternative
 - Texture: None - clean solid backgrounds, or pure white with bold color blocks
 
 ## Typography
@@ -23,18 +23,18 @@ Clean sans-serif such as Inter, SF Pro, or Helvetica Neue. Medium weight for bod
 
 ## Color Palette
 
-| Role | Color | Hex | Usage |
-|------|-------|-----|-------|
-| Background Dark | Deep Black | #0A0A0A | Primary dark background |
-| Background Alt | Deep Blue | #0F172A | Alternative dark background |
-| Background Light | Pure White | #FFFFFF | Light mode background |
-| Primary Text | Pure White | #FFFFFF | Text on dark backgrounds |
-| Alt Text | Pure Black | #000000 | Text on light backgrounds |
-| Accent 1 | Electric Blue | #3B82F6 | Primary highlights |
-| Accent 2 | Bright Orange | #FB923C | Energy, urgency |
-| Accent 3 | Magenta | #EC4899 | Creative, bold accents |
-| Accent 4 | Neon Green | #22C55E | Success, growth |
-| Accent 5 | Violet | #8B5CF6 | Innovation, premium |
+| Role             | Color         | Hex       | Usage                       |
+| ---------------- | ------------- | --------- | --------------------------- |
+| Background Dark  | Deep Black    | `#0A0A0A` | Primary dark background     |
+| Background Alt   | Deep Blue     | `#0F172A` | Alternative dark background |
+| Background Light | Pure White    | `#FFFFFF` | Light mode background       |
+| Primary Text     | Pure White    | `#FFFFFF` | Text on dark backgrounds    |
+| Alt Text         | Pure Black    | `#000000` | Text on light backgrounds   |
+| Accent 1         | Electric Blue | `#3B82F6` | Primary highlights          |
+| Accent 2         | Bright Orange | `#FB923C` | Energy, urgency             |
+| Accent 3         | Magenta       | `#EC4899` | Creative, bold accents      |
+| Accent 4         | Neon Green    | `#22C55E` | Success, growth             |
+| Accent 5         | Violet        | `#8B5CF6` | Innovation, premium         |
 
 ## Visual Elements
 
@@ -67,4 +67,3 @@ Clean sans-serif such as Inter, SF Pro, or Helvetica Neue. Medium weight for bod
 ## Best For
 
 Product launches, marketing presentations, keynote speeches, brand showcases, investor pitches, high-stakes presentations
-

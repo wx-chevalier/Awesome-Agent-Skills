@@ -18,37 +18,37 @@ Historical atmosphere with aged paper effects and period-appropriate aesthetics.
 
 When applied to any art style:
 
-| Adjustment | Direction |
-|------------|-----------|
-| Saturation | Reduced, muted |
-| Contrast | Medium, aged |
-| Temperature | Sepia shift |
-| Brightness | Slightly faded |
+| Adjustment  | Direction      |
+| ----------- | -------------- |
+| Saturation  | Reduced, muted |
+| Contrast    | Medium, aged   |
+| Temperature | Sepia shift    |
+| Brightness  | Slightly faded |
 
 ## Color Palette
 
 Shift toward aged tones:
 
-| Role | Color | Hex |
-|------|-------|-----|
-| Primary | Sepia brown | #8B7355 |
-| Background | Aged paper | #F5E6D3 |
-| Accent 1 | Faded teal | #6B8E8E |
-| Accent 2 | Muted burgundy | #7B3F3F |
-| Ink | Aged black | #3D3D3D |
-| Yellowed | Paper yellow | #F5DEB3 |
+| Role       | Color          | Hex       |
+| ---------- | -------------- | --------- |
+| Primary    | Sepia brown    | `#8B7355` |
+| Background | Aged paper     | `#F5E6D3` |
+| Accent 1   | Faded teal     | `#6B8E8E` |
+| Accent 2   | Muted burgundy | `#7B3F3F` |
+| Ink        | Aged black     | `#3D3D3D` |
+| Yellowed   | Paper yellow   | `#F5DEB3` |
 
 ## Visual Effects
 
 **Aging effects** (apply subtly):
 
-| Effect | Application |
-|--------|-------------|
-| Paper aging | Background texture |
-| Faded edges | Vignette effect |
-| Dust specks | Subtle overlay |
-| Yellowing | Color shift |
-| Wear marks | Corner/edge details |
+| Effect      | Application         |
+| ----------- | ------------------- |
+| Paper aging | Background texture  |
+| Faded edges | Vignette effect     |
+| Dust specks | Subtle overlay      |
+| Yellowing   | Color shift         |
+| Wear marks  | Corner/edge details |
 
 ## Period Elements
 
@@ -68,12 +68,12 @@ Shift toward aged tones:
 
 ## Emotional Range
 
-| Emotion | Expression |
-|---------|-----------|
-| Dignity | Formal, composed |
-| Sorrow | Restrained, elegant |
-| Pride | Classical posture |
-| Wisdom | Aged grace |
+| Emotion | Expression          |
+| ------- | ------------------- |
+| Dignity | Formal, composed    |
+| Sorrow  | Restrained, elegant |
+| Pride   | Classical posture   |
+| Wisdom  | Aged grace          |
 
 ## Composition
 
@@ -95,10 +95,12 @@ Shift toward aged tones:
 ## Combination Notes
 
 Works especially well with:
+
 - realistic: period drama
 - ligne-claire: historical adventure
 - ink-brush: classical Asian stories
 
 Avoid with:
+
 - manga: style mismatch (too modern)
 - chalk: style mismatch (modern educational)

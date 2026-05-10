@@ -8,20 +8,20 @@ Hand-drawn sketch aesthetic that feels authentic and in-progress. Pencil-on-pape
 
 ## Background
 
-- Color: Off-White Paper (#F7FAFC) or Cream (#FAFAFA)
+- Color: Off-White Paper (`#F7FAFC`) or Cream (`#FAFAFA`)
 - Texture: Paper texture with visible grain
 
 ## Color Palette
 
-| Role | Color | Hex | Usage |
-|------|-------|-----|-------|
-| Background | Paper White | #F7FAFC | Primary background |
-| Primary | Pencil Gray | #4A5568 | Main sketch lines |
-| Secondary | Light Gray | #A0AEC0 | Shading, soft marks |
-| Highlight Blue | Note Blue | #3182CE | Highlight color |
-| Highlight Red | Mark Red | #E53E3E | Emphasis color |
-| Highlight Yellow | Marker Yellow | #F6E05E | Highlighter effect |
-| Text | Charcoal | #2D3748 | Text elements |
+| Role             | Color         | Hex       | Usage               |
+| ---------------- | ------------- | --------- | ------------------- |
+| Background       | Paper White   | `#F7FAFC` | Primary background  |
+| Primary          | Pencil Gray   | `#4A5568` | Main sketch lines   |
+| Secondary        | Light Gray    | `#A0AEC0` | Shading, soft marks |
+| Highlight Blue   | Note Blue     | `#3182CE` | Highlight color     |
+| Highlight Red    | Mark Red      | `#E53E3E` | Emphasis color      |
+| Highlight Yellow | Marker Yellow | `#F6E05E` | Highlighter effect  |
+| Text             | Charcoal      | `#2D3748` | Text elements       |
 
 ## Visual Elements
 

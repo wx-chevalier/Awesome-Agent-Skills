@@ -50,16 +50,16 @@ Full-color realistic manga style using digital painting techniques. Features ana
 
 ## Default Color Palette
 
-| Role | Color | Hex |
-|------|-------|-----|
-| Skin Light | Natural warm | #F5D6C6 |
-| Skin Shadow | Warm shadow | #E8C4B0 |
-| Environment | Warm wood | #8B7355 |
-| Environment Cool | Cool stone | #9CA3AF |
-| Accent | Wine red | #722F37 |
-| Accent Gold | Gold | #D4AF37 |
-| Light Warm | Amber | #FFB347 |
-| Light Cool | Cool blue | #B0C4DE |
+| Role             | Color        | Hex       |
+| ---------------- | ------------ | --------- |
+| Skin Light       | Natural warm | `#F5D6C6` |
+| Skin Shadow      | Warm shadow  | `#E8C4B0` |
+| Environment      | Warm wood    | `#8B7355` |
+| Environment Cool | Cool stone   | `#9CA3AF` |
+| Accent           | Wine red     | `#722F37` |
+| Accent Gold      | Gold         | `#D4AF37` |
+| Light Warm       | Amber        | `#FFB347` |
+| Light Cool       | Cool blue    | `#B0C4DE` |
 
 ## Quality Markers
 
@@ -74,15 +74,15 @@ Full-color realistic manga style using digital painting techniques. Features ana
 
 ## Compatibility
 
-| Tone | Fit | Notes |
-|------|-----|-------|
-| neutral | ✓✓ | Professional content |
-| warm | ✓✓ | Nostalgic stories |
-| dramatic | ✓✓ | High drama |
-| vintage | ✓✓ | Period pieces |
-| romantic | ✗ | Style mismatch |
-| energetic | ✗ | Too refined |
-| action | ✓ | Serious action |
+| Tone      | Fit | Notes                |
+| --------- | --- | -------------------- |
+| neutral   | ✓✓  | Professional content |
+| warm      | ✓✓  | Nostalgic stories    |
+| dramatic  | ✓✓  | High drama           |
+| vintage   | ✓✓  | Period pieces        |
+| romantic  | ✗   | Style mismatch       |
+| energetic | ✗   | Too refined          |
+| action    | ✓   | Serious action       |
 
 ## Best For
 

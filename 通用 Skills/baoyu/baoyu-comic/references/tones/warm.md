@@ -18,29 +18,29 @@ Warm, inviting atmosphere for personal stories and nostalgic content. Creates em
 
 When applied to any art style:
 
-| Adjustment | Direction |
-|------------|-----------|
-| Saturation | Slightly reduced |
-| Contrast | Softer |
+| Adjustment  | Direction         |
+| ----------- | ----------------- |
+| Saturation  | Slightly reduced  |
+| Contrast    | Softer            |
 | Temperature | Warm shift (+15%) |
-| Brightness | Soft, golden |
+| Brightness  | Soft, golden      |
 
 ## Color Temperature
 
 Shift palette toward warm tones:
 
-| Original | Warm Shift |
-|----------|-----------|
-| Cool blue | Soft teal |
-| Pure white | Cream |
-| Gray | Warm gray |
-| Black | Soft charcoal |
+| Original   | Warm Shift    |
+| ---------- | ------------- |
+| Cool blue  | Soft teal     |
+| Pure white | Cream         |
+| Gray       | Warm gray     |
+| Black      | Soft charcoal |
 
 ## Accent Colors
 
-- Golden yellow (#D69E2E)
-- Soft orange (#DD6B20)
-- Warm brown (#8B6F47)
+- Golden yellow (`#D69E2E`)
+- Soft orange (`#DD6B20`)
+- Warm brown (`#8B6F47`)
 - Sunset tones
 
 ## Lighting
@@ -53,12 +53,12 @@ Shift palette toward warm tones:
 
 ## Emotional Range
 
-| Emotion | Expression |
-|---------|-----------|
-| Joy | Genuine warm smile |
-| Sadness | Gentle melancholy |
-| Love | Soft, tender expressions |
-| Memory | Distant, reflective gaze |
+| Emotion | Expression               |
+| ------- | ------------------------ |
+| Joy     | Genuine warm smile       |
+| Sadness | Gentle melancholy        |
+| Love    | Soft, tender expressions |
+| Memory  | Distant, reflective gaze |
 
 ## Composition
 
@@ -88,6 +88,7 @@ Shift palette toward warm tones:
 ## Combination Notes
 
 Works especially well with:
+
 - ligne-claire: nostalgic European comics
 - realistic: touching human stories
 - manga: slice-of-life warmth

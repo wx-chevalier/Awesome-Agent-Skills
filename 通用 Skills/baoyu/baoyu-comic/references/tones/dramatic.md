@@ -18,12 +18,12 @@ High-impact dramatic tone for pivotal moments, conflicts, and breakthroughs. Use
 
 When applied to any art style:
 
-| Adjustment | Direction |
-|------------|-----------|
-| Saturation | High (vibrant or deep) |
-| Contrast | Maximum |
-| Temperature | Varies for effect |
-| Brightness | Strong highlights, deep shadows |
+| Adjustment  | Direction                       |
+| ----------- | ------------------------------- |
+| Saturation  | High (vibrant or deep)          |
+| Contrast    | Maximum                         |
+| Temperature | Varies for effect               |
+| Brightness  | Strong highlights, deep shadows |
 
 ## Contrast Approach
 
@@ -35,8 +35,8 @@ When applied to any art style:
 
 ## Accent Colors
 
-- Deep navy (#1A365D)
-- Crimson (#9B2C2C)
+- Deep navy (`#1A365D`)
+- Crimson (`#9B2C2C`)
 - Stark white
 - Heavy blacks
 - Limited palette per scene
@@ -51,12 +51,12 @@ When applied to any art style:
 
 ## Emotional Range
 
-| Emotion | Expression |
-|---------|-----------|
-| Anger | Intense, defined features |
-| Determination | Strong, focused gaze |
-| Shock | Wide eyes, stark lighting |
-| Triumph | Powerful, elevated pose |
+| Emotion       | Expression                |
+| ------------- | ------------------------- |
+| Anger         | Intense, defined features |
+| Determination | Strong, focused gaze      |
+| Shock         | Wide eyes, stark lighting |
+| Triumph       | Powerful, elevated pose   |
 
 ## Composition
 
@@ -87,6 +87,7 @@ When applied to any art style:
 ## Combination Notes
 
 Works especially well with:
+
 - realistic: powerful drama
 - ink-brush: martial arts climax
 - ligne-claire: historical pivots

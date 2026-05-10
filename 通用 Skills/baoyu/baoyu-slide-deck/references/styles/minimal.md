@@ -8,7 +8,7 @@ Maximum whitespace with minimal elements. Zen-like simplicity where every elemen
 
 ## Background
 
-- Color: Pure White (#FFFFFF)
+- Color: Pure White (`#FFFFFF`)
 - Texture: None - absolute clean, no grain or patterns
 
 ## Typography
@@ -23,13 +23,13 @@ Same family as headlines in lighter weight. Minimal size contrast. Clean, airy f
 
 ## Color Palette
 
-| Role | Color | Hex | Usage |
-|------|-------|-----|-------|
-| Background | Pure White | #FFFFFF | Primary background |
-| Primary Text | Near Black | #1A1A1A | Headlines, body |
-| Secondary Text | Medium Gray | #6B7280 | Captions, metadata |
-| Accent | Single Brand Color | #2563EB | One accent only, sparingly |
-| Dividers | Light Gray | #E5E7EB | Subtle separators |
+| Role           | Color              | Hex       | Usage                      |
+| -------------- | ------------------ | --------- | -------------------------- |
+| Background     | Pure White         | `#FFFFFF` | Primary background         |
+| Primary Text   | Near Black         | `#1A1A1A` | Headlines, body            |
+| Secondary Text | Medium Gray        | `#6B7280` | Captions, metadata         |
+| Accent         | Single Brand Color | `#2563EB` | One accent only, sparingly |
+| Dividers       | Light Gray         | `#E5E7EB` | Subtle separators          |
 
 ## Visual Elements
 

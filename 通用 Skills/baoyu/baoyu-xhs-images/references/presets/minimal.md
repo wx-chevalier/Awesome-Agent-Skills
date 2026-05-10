@@ -33,11 +33,11 @@ decorations:
 
 ## Color Palette
 
-| Role | Colors | Hex |
-|------|--------|-----|
-| Primary | Black, white | #000000, #FFFFFF |
-| Background | Off-white, pure white | #FAFAFA, #FFFFFF |
-| Accents | Single color (content-derived) | Blue, green, or coral |
+| Role       | Colors                         | Hex                   |
+| ---------- | ------------------------------ | --------------------- |
+| Primary    | Black, white                   | `#000000`, `#FFFFFF`  |
+| Background | Off-white, pure white          | `#FAFAFA`, `#FFFFFF`  |
+| Accents    | Single color (content-derived) | Blue, green, or coral |
 
 ## Visual Elements
 
@@ -54,14 +54,14 @@ decorations:
 
 ## Best Layout Pairings
 
-| Layout | Compatibility | Use Case |
-|--------|---------------|----------|
-| sparse | ✓✓ | Elegant statements |
-| balanced | ✓✓ | Professional content |
-| dense | ✓✓ | Clean knowledge cards |
-| list | ✓ | Simple lists |
-| comparison | ✓ | Clean comparisons |
-| flow | ✓ | Elegant processes |
+| Layout     | Compatibility | Use Case              |
+| ---------- | ------------- | --------------------- |
+| sparse     | ✓✓            | Elegant statements    |
+| balanced   | ✓✓            | Professional content  |
+| dense      | ✓✓            | Clean knowledge cards |
+| list       | ✓             | Simple lists          |
+| comparison | ✓             | Clean comparisons     |
+| flow       | ✓             | Elegant processes     |
 
 ## Best For
 

@@ -4,11 +4,11 @@
 
 ## Base Configuration
 
-| Dimension | Value |
-|-----------|-------|
-| Art Style | ink-brush |
-| Tone | action |
-| Layout | splash (default) |
+| Dimension | Value            |
+| --------- | ---------------- |
+| Art Style | ink-brush        |
+| Tone      | action           |
+| Layout    | splash (default) |
 
 Equivalent to: `--art ink-brush --tone action`
 
@@ -20,23 +20,23 @@ This preset includes special rules beyond the art+tone combination. When `--styl
 
 Martial arts power must be visible through qi effects:
 
-| Effect Type | Visual Treatment |
-|-------------|-----------------|
-| Internal qi | Glowing aura around character |
-| External qi | Visible energy projection |
-| Qi clash | Radiating impact waves |
+| Effect Type   | Visual Treatment                   |
+| ------------- | ---------------------------------- |
+| Internal qi   | Glowing aura around character      |
+| External qi   | Visible energy projection          |
+| Qi clash      | Radiating impact waves             |
 | Qi absorption | Flowing particles toward character |
-| Hidden power | Subtle glow in eyes/fists |
+| Hidden power  | Subtle glow in eyes/fists          |
 
 ### Energy Colors
 
-| Qi Type | Color |
-|---------|-------|
-| Righteous | Blue (#4299E1), Gold (#FFD700) |
-| Fierce | Red (#DC2626), Orange (#EA580C) |
-| Evil | Purple (#7C3AED), Green (#16A34A) |
-| Pure | White, Silver |
-| Ancient | Gold with particles |
+| Qi Type   | Color                                 |
+| --------- | ------------------------------------- |
+| Righteous | Blue (`#4299E1`), Gold (`#FFD700`)    |
+| Fierce    | Red (`#DC2626`), Orange (`#EA580C`)   |
+| Evil      | Purple (`#7C3AED`), Green (`#16A34A`) |
+| Pure      | White, Silver                         |
+| Ancient   | Gold with particles                   |
 
 ### Combat Visual Language
 
@@ -50,24 +50,24 @@ Martial arts power must be visible through qi effects:
 
 ### Movement Depiction
 
-| Speed Level | Visual Treatment |
-|-------------|-----------------|
-| Normal | Standard pose |
-| Fast | Motion blur, speed lines |
-| Lightning | Afterimages, multiple positions |
-| Teleport | Fade effect, particle trail |
+| Speed Level | Visual Treatment                |
+| ----------- | ------------------------------- |
+| Normal      | Standard pose                   |
+| Fast        | Motion blur, speed lines        |
+| Lightning   | Afterimages, multiple positions |
+| Teleport    | Fade effect, particle trail     |
 
 ### Environmental Integration
 
 Backgrounds must support action:
 
-| Environment | Combat Enhancement |
-|-------------|-------------------|
-| Mountains | Crumbling peaks from impacts |
-| Forest | Exploding trees, flying leaves |
-| Water | Dramatic splashes, walking on water |
-| Temple | Breaking pillars, flying tiles |
-| Cliff | Dramatic falls, wind effects |
+| Environment | Combat Enhancement                  |
+| ----------- | ----------------------------------- |
+| Mountains   | Crumbling peaks from impacts        |
+| Forest      | Exploding trees, flying leaves      |
+| Water       | Dramatic splashes, walking on water |
+| Temple      | Breaking pillars, flying tiles      |
+| Cliff       | Dramatic falls, wind effects        |
 
 ### Character Pose Guidelines
 
@@ -79,16 +79,17 @@ Backgrounds must support action:
 
 ### Weapon Effects
 
-| Weapon | Visual Treatment |
-|--------|-----------------|
-| Sword | Trailing light arc, blade glow |
-| Palm | Qi projection, wind effect |
-| Staff | Spinning blur, impact ripples |
-| Whip | Flowing energy trail |
+| Weapon | Visual Treatment               |
+| ------ | ------------------------------ |
+| Sword  | Trailing light arc, blade glow |
+| Palm   | Qi projection, wind effect     |
+| Staff  | Spinning blur, impact ripples  |
+| Whip   | Flowing energy trail           |
 
 ### Atmospheric Elements
 
 Always include:
+
 - Floating particles (leaves, petals, dust)
 - Ink wash mist for depth
 - Wind direction indicators

@@ -33,11 +33,11 @@ decorations:
 
 ## Color Palette
 
-| Role | Colors | Hex |
-|------|--------|-----|
-| Primary | Warm orange, golden yellow, terracotta | #ED8936, #F6AD55, #C05621 |
-| Background | Cream, soft peach | #FFFAF0, #FED7AA |
-| Accents | Deep brown, soft red | #744210, #E57373 |
+| Role       | Colors                                 | Hex                             |
+| ---------- | -------------------------------------- | ------------------------------- |
+| Primary    | Warm orange, golden yellow, terracotta | `#ED8936`, `#F6AD55`, `#C05621` |
+| Background | Cream, soft peach                      | `#FFFAF0`, `#FED7AA`            |
+| Accents    | Deep brown, soft red                   | `#744210`, `#E57373`            |
 
 ## Visual Elements
 
@@ -54,14 +54,14 @@ decorations:
 
 ## Best Layout Pairings
 
-| Layout | Compatibility | Use Case |
-|--------|---------------|----------|
-| sparse | ✓✓ | Emotional covers |
-| balanced | ✓✓ | Personal stories |
-| dense | ✓ | Detailed experiences |
-| list | ✓ | Life lessons |
-| comparison | ✓✓ | Before/after stories |
-| flow | ✓ | Journey narratives |
+| Layout     | Compatibility | Use Case             |
+| ---------- | ------------- | -------------------- |
+| sparse     | ✓✓            | Emotional covers     |
+| balanced   | ✓✓            | Personal stories     |
+| dense      | ✓             | Detailed experiences |
+| list       | ✓             | Life lessons         |
+| comparison | ✓✓            | Before/after stories |
+| flow       | ✓             | Journey narratives   |
 
 ## Best For
 

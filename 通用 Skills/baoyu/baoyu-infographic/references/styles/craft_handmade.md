@@ -5,15 +5,15 @@ Hand-drawn and paper craft aesthetic with warm, organic feel.
 ## Color Palette
 
 - Primary: Warm pastels, soft saturated colors, craft paper tones
-- Background: Light cream (#FFF8F0), textured paper (#F5F0E6)
+- Background: Light cream (`#FFF8F0`), textured paper (`#F5F0E6`)
 - Accents: Bold highlights, construction paper colors
 
 ## Variants
 
-| Variant | Focus | Visual Emphasis |
-|---------|-------|-----------------|
-| **Hand-drawn** | Cartoon illustration | Simple icons, slightly imperfect lines |
-| **Paper-cutout** | Layered paper craft | Drop shadows, torn edges, texture |
+| Variant          | Focus                | Visual Emphasis                        |
+| ---------------- | -------------------- | -------------------------------------- |
+| **Hand-drawn**   | Cartoon illustration | Simple icons, slightly imperfect lines |
+| **Paper-cutout** | Layered paper craft  | Drop shadows, torn edges, texture      |
 
 ## Visual Elements
 

@@ -8,22 +8,22 @@ Cheerful and approachable visual style combining flat design with doodle charm. 
 
 ## Background
 
-- Color: Clean White (#FFFFFF)
+- Color: Clean White (`#FFFFFF`)
 - Texture: None - pure white isolated background
 
 ## Color Palette
 
-| Role | Color | Hex | Usage |
-|------|-------|-----|-------|
-| Background | White | #FFFFFF | Primary background |
-| Primary | Pastel Pink | #FFB6C1 | Main elements |
-| Secondary | Mint | #98D8C8 | Supporting elements |
-| Tertiary | Lavender | #C8A2C8 | Accent elements |
-| Accent 1 | Butter Yellow | #FFFACD | Highlight pop |
-| Accent 2 | Sky Blue | #87CEEB | Cool accent |
-| Accent 3 | Soft Coral | #F88379 | Warm accent |
-| Outline | Bold Black | #000000 | All outlines |
-| Text | Black | #1A1A1A | Text elements |
+| Role       | Color         | Hex       | Usage               |
+| ---------- | ------------- | --------- | ------------------- |
+| Background | White         | `#FFFFFF` | Primary background  |
+| Primary    | Pastel Pink   | `#FFB6C1` | Main elements       |
+| Secondary  | Mint          | `#98D8C8` | Supporting elements |
+| Tertiary   | Lavender      | `#C8A2C8` | Accent elements     |
+| Accent 1   | Butter Yellow | `#FFFACD` | Highlight pop       |
+| Accent 2   | Sky Blue      | `#87CEEB` | Cool accent         |
+| Accent 3   | Soft Coral    | `#F88379` | Warm accent         |
+| Outline    | Bold Black    | `#000000` | All outlines        |
+| Text       | Black         | `#1A1A1A` | Text elements       |
 
 ## Visual Elements
 

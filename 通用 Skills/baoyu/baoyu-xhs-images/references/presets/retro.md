@@ -33,11 +33,11 @@ decorations:
 
 ## Color Palette
 
-| Role | Colors | Hex |
-|------|--------|-----|
-| Primary | Muted orange, dusty pink, faded teal | #E07A4D, #D4A5A5, #6B9999 |
-| Background | Aged paper, sepia tones | #F5E6D3, #E8DCC8 |
-| Accents | Faded red, vintage gold | #C55A5A, #B8860B |
+| Role       | Colors                               | Hex                             |
+| ---------- | ------------------------------------ | ------------------------------- |
+| Primary    | Muted orange, dusty pink, faded teal | `#E07A4D`, `#D4A5A5`, `#6B9999` |
+| Background | Aged paper, sepia tones              | `#F5E6D3`, `#E8DCC8`            |
+| Accents    | Faded red, vintage gold              | `#C55A5A`, `#B8860B`            |
 
 ## Visual Elements
 
@@ -54,14 +54,14 @@ decorations:
 
 ## Best Layout Pairings
 
-| Layout | Compatibility | Use Case |
-|--------|---------------|----------|
-| sparse | ✓✓ | Vintage covers |
-| balanced | ✓✓ | Classic content |
-| dense | ✓ | Vintage knowledge cards |
-| list | ✓✓ | Classic rankings |
-| comparison | ✓ | Then vs now |
-| flow | ✓ | Historical timelines |
+| Layout     | Compatibility | Use Case                |
+| ---------- | ------------- | ----------------------- |
+| sparse     | ✓✓            | Vintage covers          |
+| balanced   | ✓✓            | Classic content         |
+| dense      | ✓             | Vintage knowledge cards |
+| list       | ✓✓            | Classic rankings        |
+| comparison | ✓             | Then vs now             |
+| flow       | ✓             | Historical timelines    |
 
 ## Best For
 

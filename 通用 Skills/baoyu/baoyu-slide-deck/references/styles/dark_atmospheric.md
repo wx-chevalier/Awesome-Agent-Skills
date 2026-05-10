@@ -8,7 +8,7 @@ Cinematic dark mode aesthetic with atmospheric depth. Deep purples, blacks, and 
 
 ## Background
 
-- Color: Deep Purple-Black (#0D0D1A) or Rich Navy (#1A1A2E)
+- Color: Deep Purple-Black (`#0D0D1A`) or Rich Navy (`#1A1A2E`)
 - Texture: Subtle gradient from darker edges to slightly lighter center, atmospheric fog effect
 
 ## Typography
@@ -23,17 +23,17 @@ Clean sans-serif in light gray or muted white. Readable against dark backgrounds
 
 ## Color Palette
 
-| Role | Color | Hex | Usage |
-|------|-------|-----|-------|
-| Background | Deep Purple-Black | #0D0D1A | Primary background |
-| Alt Background | Rich Navy | #1A1A2E | Secondary areas |
-| Primary Text | Pure White | #FFFFFF | Headlines |
-| Secondary Text | Light Gray | #A0AEC0 | Body text |
-| Glow Accent 1 | Electric Purple | #8B5CF6 | Primary glow |
-| Glow Accent 2 | Cyan Blue | #06B6D4 | Secondary glow |
-| Glow Accent 3 | Magenta Pink | #EC4899 | Tertiary accent |
-| Glow Accent 4 | Amber | #F59E0B | Warm highlights |
-| Subtle | Dark Gray | #2D3748 | Dividers, borders |
+| Role           | Color             | Hex       | Usage              |
+| -------------- | ----------------- | --------- | ------------------ |
+| Background     | Deep Purple-Black | `#0D0D1A` | Primary background |
+| Alt Background | Rich Navy         | `#1A1A2E` | Secondary areas    |
+| Primary Text   | Pure White        | `#FFFFFF` | Headlines          |
+| Secondary Text | Light Gray        | `#A0AEC0` | Body text          |
+| Glow Accent 1  | Electric Purple   | `#8B5CF6` | Primary glow       |
+| Glow Accent 2  | Cyan Blue         | `#06B6D4` | Secondary glow     |
+| Glow Accent 3  | Magenta Pink      | `#EC4899` | Tertiary accent    |
+| Glow Accent 4  | Amber             | `#F59E0B` | Warm highlights    |
+| Subtle         | Dark Gray         | `#2D3748` | Dividers, borders  |
 
 ## Visual Elements
 

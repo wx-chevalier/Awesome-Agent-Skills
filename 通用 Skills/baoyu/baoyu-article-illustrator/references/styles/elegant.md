@@ -8,20 +8,20 @@ Elegant and refined visual approach with sophisticated color palette. Profession
 
 ## Background
 
-- Color: Warm Cream (#F5F0E6) or Soft Beige (#FAF6F0)
+- Color: Warm Cream (`#F5F0E6`) or Soft Beige (`#FAF6F0`)
 - Texture: Subtle paper texture, very light grain
 
 ## Color Palette
 
-| Role | Color | Hex | Usage |
-|------|-------|-----|-------|
-| Background | Warm Cream | #F5F0E6 | Primary background |
-| Primary | Soft Coral | #E8A598 | Main accent color |
-| Secondary | Muted Teal | #5B8A8A | Supporting elements |
-| Tertiary | Dusty Rose | #D4A5A5 | Subtle highlights |
-| Accent | Gold | #C9A962 | Premium touches |
-| Alt Accent | Copper | #B87333 | Warm metallic notes |
-| Text | Charcoal | #3D3D3D | Text and outlines |
+| Role       | Color      | Hex       | Usage               |
+| ---------- | ---------- | --------- | ------------------- |
+| Background | Warm Cream | `#F5F0E6` | Primary background  |
+| Primary    | Soft Coral | `#E8A598` | Main accent color   |
+| Secondary  | Muted Teal | `#5B8A8A` | Supporting elements |
+| Tertiary   | Dusty Rose | `#D4A5A5` | Subtle highlights   |
+| Accent     | Gold       | `#C9A962` | Premium touches     |
+| Alt Accent | Copper     | `#B87333` | Warm metallic notes |
+| Text       | Charcoal   | `#3D3D3D` | Text and outlines   |
 
 ## Visual Elements
 

@@ -25,12 +25,12 @@ Japanese manga art style characterized by large expressive eyes, dynamic poses, 
 
 ## Eye Styles
 
-| Type | Description |
-|------|-------------|
-| Standard | Medium-large, 2-3 highlights |
-| Educational | Friendly, approachable eyes |
-| Dramatic | Intense, detailed irises |
-| Cute | Very large, sparkly eyes |
+| Type        | Description                  |
+| ----------- | ---------------------------- |
+| Standard    | Medium-large, 2-3 highlights |
+| Educational | Friendly, approachable eyes  |
+| Dramatic    | Intense, detailed irises     |
+| Cute        | Very large, sparkly eyes     |
 
 ## Background Treatment
 
@@ -50,14 +50,14 @@ Japanese manga art style characterized by large expressive eyes, dynamic poses, 
 
 ## Default Color Palette
 
-| Role | Color | Hex |
-|------|-------|-----|
-| Primary Blue | Bright blue | #4299E1 |
-| Primary Orange | Warm orange | #ED8936 |
-| Primary Green | Soft green | #68D391 |
-| Skin | Anime warm | #FEEBC8 |
-| Background | Clean white | #FFFFFF |
-| Highlight | Golden | #FFD700 |
+| Role           | Color       | Hex       |
+| -------------- | ----------- | --------- |
+| Primary Blue   | Bright blue | `#4299E1` |
+| Primary Orange | Warm orange | `#ED8936` |
+| Primary Green  | Soft green  | `#68D391` |
+| Skin           | Anime warm  | `#FEEBC8` |
+| Background     | Clean white | `#FFFFFF` |
+| Highlight      | Golden      | `#FFD700` |
 
 ## Visual Elements
 
@@ -78,15 +78,15 @@ Japanese manga art style characterized by large expressive eyes, dynamic poses, 
 
 ## Compatibility
 
-| Tone | Fit | Notes |
-|------|-----|-------|
-| neutral | ✓✓ | Educational manga |
-| warm | ✓ | Slice of life |
-| dramatic | ✓ | Intense moments |
-| romantic | ✓✓ | Shoujo style |
-| energetic | ✓✓ | Shonen style |
-| vintage | ✗ | Style mismatch |
-| action | ✓✓ | Battle manga |
+| Tone      | Fit | Notes             |
+| --------- | --- | ----------------- |
+| neutral   | ✓✓  | Educational manga |
+| warm      | ✓   | Slice of life     |
+| dramatic  | ✓   | Intense moments   |
+| romantic  | ✓✓  | Shoujo style      |
+| energetic | ✓✓  | Shonen style      |
+| vintage   | ✗   | Style mismatch    |
+| action    | ✓✓  | Battle manga      |
 
 ## Best For
 

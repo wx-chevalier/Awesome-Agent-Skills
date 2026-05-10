@@ -8,22 +8,22 @@ Nostalgic retro aesthetic inspired by 80s and 90s design trends. Vibrant neon co
 
 ## Background
 
-- Color: Deep Purple (#2D1B4E) or Dark Teal (#0F4C5C)
+- Color: Deep Purple (`#2D1B4E`) or Dark Teal (`#0F4C5C`)
 - Texture: Subtle grid patterns or geometric shapes
 
 ## Color Palette
 
-| Role | Color | Hex | Usage |
-|------|-------|-----|-------|
-| Background | Deep Purple | #2D1B4E | Primary background |
-| Alt Background | Dark Teal | #0F4C5C | Alternative |
-| Primary | Hot Pink | #FF1493 | Main accent |
-| Secondary | Electric Cyan | #00FFFF | Supporting |
-| Tertiary | Neon Yellow | #FFFF00 | Highlights |
-| Accent 1 | Lime Green | #32CD32 | Energy |
-| Accent 2 | Orange | #FF6B35 | Warmth |
-| Text | White | #FFFFFF | Text elements |
-| Grid | Light Purple | #9D8EC0 | Grid lines |
+| Role           | Color         | Hex       | Usage              |
+| -------------- | ------------- | --------- | ------------------ |
+| Background     | Deep Purple   | `#2D1B4E` | Primary background |
+| Alt Background | Dark Teal     | `#0F4C5C` | Alternative        |
+| Primary        | Hot Pink      | `#FF1493` | Main accent        |
+| Secondary      | Electric Cyan | `#00FFFF` | Supporting         |
+| Tertiary       | Neon Yellow   | `#FFFF00` | Highlights         |
+| Accent 1       | Lime Green    | `#32CD32` | Energy             |
+| Accent 2       | Orange        | `#FF6B35` | Warmth             |
+| Text           | White         | `#FFFFFF` | Text elements      |
+| Grid           | Light Purple  | `#9D8EC0` | Grid lines         |
 
 ## Visual Elements
 

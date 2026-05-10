@@ -8,21 +8,21 @@ Flat vector illustration with no gradients or 3D effects. Clear, uniform-thickne
 
 ## Background
 
-- Color: Cream Off-White (#F5F0E6)
+- Color: Cream Off-White (`#F5F0E6`)
 - Texture: Subtle paper texture, warm nostalgic feel
 
 ## Color Palette
 
-| Role | Color | Hex | Usage |
-|------|-------|-----|-------|
-| Background | Cream Off-White | #F5F0E6 | Primary background |
-| Outlines | Deep Charcoal | #2D2D2D | All element outlines |
-| Primary | Coral Red | #E07A5F | Primary accent, warmth |
-| Secondary | Mint Green | #81B29A | Nature, growth |
-| Tertiary | Mustard Yellow | #F2CC8F | Highlights, energy |
-| Accent 1 | Burnt Orange | #D4764A | Warm accents |
-| Accent 2 | Rock Blue | #577590 | Cool balance |
-| Text | Black | #1A1A1A | Text elements |
+| Role       | Color           | Hex       | Usage                  |
+| ---------- | --------------- | --------- | ---------------------- |
+| Background | Cream Off-White | `#F5F0E6` | Primary background     |
+| Outlines   | Deep Charcoal   | `#2D2D2D` | All element outlines   |
+| Primary    | Coral Red       | `#E07A5F` | Primary accent, warmth |
+| Secondary  | Mint Green      | `#81B29A` | Nature, growth         |
+| Tertiary   | Mustard Yellow  | `#F2CC8F` | Highlights, energy     |
+| Accent 1   | Burnt Orange    | `#D4764A` | Warm accents           |
+| Accent 2   | Rock Blue       | `#577590` | Cool balance           |
+| Text       | Black           | `#1A1A1A` | Text elements          |
 
 ## Visual Elements
 

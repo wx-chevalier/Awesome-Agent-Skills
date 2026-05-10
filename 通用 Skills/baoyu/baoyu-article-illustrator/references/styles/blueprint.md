@@ -8,20 +8,20 @@ Clean, structured visual metaphors using blueprints, diagrams, and schematics. P
 
 ## Background
 
-- Color: Blueprint Off-White (#FAF8F5)
+- Color: Blueprint Off-White (`#FAF8F5`)
 - Texture: Subtle grid overlay, engineering paper feel
 
 ## Color Palette
 
-| Role | Color | Hex | Usage |
-|------|-------|-----|-------|
-| Background | Blueprint Paper | #FAF8F5 | Primary background |
-| Grid | Light Gray | #E5E5E5 | Background grid lines |
-| Primary Text | Deep Slate | #334155 | Headlines, body |
-| Primary Accent | Engineering Blue | #2563EB | Key elements |
-| Secondary Accent | Navy Blue | #1E3A5F | Supporting elements |
-| Tertiary | Light Blue | #BFDBFE | Fills, backgrounds |
-| Warning | Amber | #F59E0B | Warnings, emphasis |
+| Role             | Color            | Hex       | Usage                 |
+| ---------------- | ---------------- | --------- | --------------------- |
+| Background       | Blueprint Paper  | `#FAF8F5` | Primary background    |
+| Grid             | Light Gray       | `#E5E5E5` | Background grid lines |
+| Primary Text     | Deep Slate       | `#334155` | Headlines, body       |
+| Primary Accent   | Engineering Blue | `#2563EB` | Key elements          |
+| Secondary Accent | Navy Blue        | `#1E3A5F` | Supporting elements   |
+| Tertiary         | Light Blue       | `#BFDBFE` | Fills, backgrounds    |
+| Warning          | Amber            | `#F59E0B` | Warnings, emphasis    |
 
 ## Visual Elements
 

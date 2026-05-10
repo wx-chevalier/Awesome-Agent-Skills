@@ -18,44 +18,44 @@ High-impact action atmosphere with dynamic movement, combat effects, and powerfu
 
 When applied to any art style:
 
-| Adjustment | Direction |
-|------------|-----------|
-| Saturation | High contrast |
-| Contrast | Maximum |
+| Adjustment  | Direction           |
+| ----------- | ------------------- |
+| Saturation  | High contrast       |
+| Contrast    | Maximum             |
 | Temperature | Variable per effect |
-| Brightness | Dynamic range |
+| Brightness  | Dynamic range       |
 
 ## Action Effects
 
 **Combat/motion effects** (apply liberally):
 
-| Effect | Usage |
-|--------|-------|
-| Speed lines | Motion, velocity |
-| Impact bursts | Hits, collisions |
-| Shockwaves | Powerful impacts |
+| Effect        | Usage                     |
+| ------------- | ------------------------- |
+| Speed lines   | Motion, velocity          |
+| Impact bursts | Hits, collisions          |
+| Shockwaves    | Powerful impacts          |
 | Flying debris | Environmental destruction |
-| Dust clouds | Ground impacts |
-| Motion blur | Fast movement |
-| Afterimages | Super speed |
+| Dust clouds   | Ground impacts            |
+| Motion blur   | Fast movement             |
+| Afterimages   | Super speed               |
 
 ## Special Effects
 
-| Effect Type | Visual Approach |
-|------------|-----------------|
-| Energy attacks | Glowing, radiating |
+| Effect Type      | Visual Approach         |
+| ---------------- | ----------------------- |
+| Energy attacks   | Glowing, radiating      |
 | Physical impacts | Radiating lines, debris |
-| Movement | Speed lines, blur |
-| Atmosphere | Flying particles, wind |
+| Movement         | Speed lines, blur       |
+| Atmosphere       | Flying particles, wind  |
 
 ## Effect Colors
 
-| Effect | Color | Hex |
-|--------|-------|-----|
-| Energy glow | Blue | #4299E1 |
-| Fire/power | Gold | #FFD700 |
-| Impact | White burst | #FFFFFF |
-| Blood/intensity | Deep red | #8B0000 |
+| Effect          | Color       | Hex       |
+| --------------- | ----------- | --------- |
+| Energy glow     | Blue        | `#4299E1` |
+| Fire/power      | Gold        | `#FFD700` |
+| Impact          | White burst | `#FFFFFF` |
+| Blood/intensity | Deep red    | `#8B0000` |
 
 ## Lighting
 
@@ -67,12 +67,12 @@ When applied to any art style:
 
 ## Emotional Range
 
-| Emotion | Expression |
-|---------|-----------|
-| Determination | Fierce focus |
-| Rage | Intense, powerful |
-| Triumph | Victorious pose |
-| Struggle | Strained effort |
+| Emotion       | Expression        |
+| ------------- | ----------------- |
+| Determination | Fierce focus      |
+| Rage          | Intense, powerful |
+| Triumph       | Victorious pose   |
+| Struggle      | Strained effort   |
 
 ## Composition
 
@@ -102,9 +102,11 @@ When applied to any art style:
 ## Combination Notes
 
 Works especially well with:
+
 - ink-brush: wuxia combat
 - manga: shonen battles
 
 Avoid with:
+
 - chalk: style mismatch
 - ligne-claire: style mismatch (too static)

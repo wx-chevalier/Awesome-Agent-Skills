@@ -8,21 +8,21 @@ Hand-drawn feel with soft, relaxed brush strokes. Fresh, refined style with mini
 
 ## Background
 
-- Color: Warm Off-White (#FAF8F0)
+- Color: Warm Off-White (`#FAF8F0`)
 - Texture: Subtle paper grain, warm tone
 
 ## Color Palette
 
-| Role | Color | Hex | Usage |
-|------|-------|-----|-------|
-| Background | Warm Off-White | #FAF8F0 | Primary background |
-| Primary Text | Deep Charcoal | #2C3E50 | Main elements |
-| Alt Text | Deep Brown | #4A4A4A | Secondary elements |
-| Accent 1 | Soft Orange | #F4A261 | Highlights, emphasis |
-| Accent 2 | Mustard Yellow | #E9C46A | Secondary highlights |
-| Accent 3 | Sage Green | #87A96B | Nature, growth concepts |
-| Accent 4 | Light Blue | #7EC8E3 | Tech, digital elements |
-| Accent 5 | Red Brown | #A0522D | Earthy elements |
+| Role         | Color          | Hex       | Usage                   |
+| ------------ | -------------- | --------- | ----------------------- |
+| Background   | Warm Off-White | `#FAF8F0` | Primary background      |
+| Primary Text | Deep Charcoal  | `#2C3E50` | Main elements           |
+| Alt Text     | Deep Brown     | `#4A4A4A` | Secondary elements      |
+| Accent 1     | Soft Orange    | `#F4A261` | Highlights, emphasis    |
+| Accent 2     | Mustard Yellow | `#E9C46A` | Secondary highlights    |
+| Accent 3     | Sage Green     | `#87A96B` | Nature, growth concepts |
+| Accent 4     | Light Blue     | `#7EC8E3` | Tech, digital elements  |
+| Accent 5     | Red Brown      | `#A0522D` | Earthy elements         |
 
 ## Visual Elements
 

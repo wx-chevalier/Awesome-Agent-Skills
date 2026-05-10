@@ -33,11 +33,11 @@ decorations:
 
 ## Color Palette
 
-| Role | Colors | Hex |
-|------|--------|-----|
-| Primary | Black, dark gray | #1A1A1A, #4A4A4A |
-| Background | Pure white, off-white | #FFFFFF, #FAFAFA |
-| Accents | Pastel blue, pastel yellow, pastel pink | #A8D4F0, #F9E79F, #FADBD8 |
+| Role       | Colors                                  | Hex                             |
+| ---------- | --------------------------------------- | ------------------------------- |
+| Primary    | Black, dark gray                        | `#1A1A1A`, `#4A4A4A`            |
+| Background | Pure white, off-white                   | `#FFFFFF`, `#FAFAFA`            |
+| Accents    | Pastel blue, pastel yellow, pastel pink | `#A8D4F0`, `#F9E79F`, `#FADBD8` |
 
 ## Visual Elements
 
@@ -54,14 +54,14 @@ decorations:
 
 ## Best Layout Pairings
 
-| Layout | Compatibility | Use Case |
-|--------|---------------|----------|
-| sparse | ✓✓ | Concept covers |
-| balanced | ✓✓ | Standard explanations |
-| dense | ✓✓ | Knowledge cards, cheat sheets |
-| list | ✓✓ | Productivity tips, tool lists |
-| comparison | ✓✓ | Data comparisons |
-| flow | ✓✓ | Process diagrams |
+| Layout     | Compatibility | Use Case                      |
+| ---------- | ------------- | ----------------------------- |
+| sparse     | ✓✓            | Concept covers                |
+| balanced   | ✓✓            | Standard explanations         |
+| dense      | ✓✓            | Knowledge cards, cheat sheets |
+| list       | ✓✓            | Productivity tips, tool lists |
+| comparison | ✓✓            | Data comparisons              |
+| flow       | ✓✓            | Process diagrams              |
 
 ## Best For
 

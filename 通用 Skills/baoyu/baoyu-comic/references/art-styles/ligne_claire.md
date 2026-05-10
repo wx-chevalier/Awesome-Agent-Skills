@@ -40,14 +40,14 @@ Classic European comic style originating from Hergé's Tintin. Characterized by 
 
 ## Default Color Palette
 
-| Role | Color | Hex |
-|------|-------|-----|
-| Primary Blue | Clean blue | #3182CE |
-| Primary Red | Classic red | #E53E3E |
-| Primary Yellow | Warm yellow | #ECC94B |
-| Skin | Warm tan | #F7CFAE |
-| Background Light | Light cream | #FFFAF0 |
-| Background Sky | Sky blue | #BEE3F8 |
+| Role             | Color       | Hex       |
+| ---------------- | ----------- | --------- |
+| Primary Blue     | Clean blue  | `#3182CE` |
+| Primary Red      | Classic red | `#E53E3E` |
+| Primary Yellow   | Warm yellow | `#ECC94B` |
+| Skin             | Warm tan    | `#F7CFAE` |
+| Background Light | Light cream | `#FFFAF0` |
+| Background Sky   | Sky blue    | `#BEE3F8` |
 
 ## Quality Markers
 
@@ -60,15 +60,15 @@ Classic European comic style originating from Hergé's Tintin. Characterized by 
 
 ## Compatibility
 
-| Tone | Fit | Notes |
-|------|-----|-------|
-| neutral | ✓✓ | Classic combination |
-| warm | ✓✓ | Nostalgic stories |
-| dramatic | ✓ | Works with high contrast |
-| vintage | ✓ | Period pieces |
-| romantic | ✗ | Style mismatch |
-| energetic | ✓ | Lighter stories |
-| action | ✗ | Lacks dynamic lines |
+| Tone      | Fit | Notes                    |
+| --------- | --- | ------------------------ |
+| neutral   | ✓✓  | Classic combination      |
+| warm      | ✓✓  | Nostalgic stories        |
+| dramatic  | ✓   | Works with high contrast |
+| vintage   | ✓   | Period pieces            |
+| romantic  | ✗   | Style mismatch           |
+| energetic | ✓   | Lighter stories          |
+| action    | ✗   | Lacks dynamic lines      |
 
 ## Best For
 

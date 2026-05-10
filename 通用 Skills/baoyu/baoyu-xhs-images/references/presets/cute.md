@@ -33,11 +33,11 @@ decorations:
 
 ## Color Palette
 
-| Role | Colors | Hex |
-|------|--------|-----|
-| Primary | Pink, peach, mint, lavender | #FED7E2, #FEEBC8, #C6F6D5, #E9D8FD |
-| Background | Cream, soft pink | #FFFAF0, #FFF5F7 |
-| Accents | Hot pink, coral | #FF69B4, #FF6B6B |
+| Role       | Colors                      | Hex                                        |
+| ---------- | --------------------------- | ------------------------------------------ |
+| Primary    | Pink, peach, mint, lavender | `#FED7E2`, `#FEEBC8`, `#C6F6D5`, `#E9D8FD` |
+| Background | Cream, soft pink            | `#FFFAF0`, `#FFF5F7`                       |
+| Accents    | Hot pink, coral             | `#FF69B4`, `#FF6B6B`                       |
 
 ## Visual Elements
 
@@ -54,14 +54,14 @@ decorations:
 
 ## Best Layout Pairings
 
-| Layout | Compatibility | Use Case |
-|--------|---------------|----------|
-| sparse | ✓✓ | Covers, emotional impact |
-| balanced | ✓✓ | Standard cute content |
-| dense | ✓ | Cute knowledge cards |
-| list | ✓✓ | Checklists, cute rankings |
-| comparison | ✓ | Before/after transformations |
-| flow | ✓ | Cute step guides |
+| Layout     | Compatibility | Use Case                     |
+| ---------- | ------------- | ---------------------------- |
+| sparse     | ✓✓            | Covers, emotional impact     |
+| balanced   | ✓✓            | Standard cute content        |
+| dense      | ✓             | Cute knowledge cards         |
+| list       | ✓✓            | Checklists, cute rankings    |
+| comparison | ✓             | Before/after transformations |
+| flow       | ✓             | Cute step guides             |
 
 ## Best For
 

@@ -9,36 +9,36 @@ Each prompt file uses YAML frontmatter + content:
 illustration_id: 01
 type: infographic
 style: blueprint
-references:                    # ⚠️ ONLY if files EXIST in references/ directory
+references: # ⚠️ ONLY if files EXIST in references/ directory
   - ref_id: 01
     filename: 01-ref-diagram.png
-    usage: direct              # direct | style | palette
+    usage: direct # direct | style | palette
 ---
-
 [Type-specific template content below...]
 ```
 
 **⚠️ CRITICAL - When to include `references` field**:
 
-| Situation | Action |
-|-----------|--------|
-| Reference file saved to `references/` | Include in frontmatter ✓ |
-| Style extracted verbally (no file) | DO NOT include in frontmatter, append to prompt body instead |
-| File path in frontmatter but file doesn't exist | ERROR - remove references field |
+| Situation                                       | Action                                                       |
+| ----------------------------------------------- | ------------------------------------------------------------ |
+| Reference file saved to `references/`           | Include in frontmatter ✓                                     |
+| Style extracted verbally (no file)              | DO NOT include in frontmatter, append to prompt body instead |
+| File path in frontmatter but file doesn't exist | ERROR - remove references field                              |
 
 **Reference Usage Types** (only when file exists):
 
-| Usage | Description | Generation Action |
-|-------|-------------|-------------------|
-| `direct` | Primary visual reference | Pass to `--ref` parameter |
-| `style` | Style characteristics only | Describe style in prompt text |
-| `palette` | Color palette extraction | Include colors in prompt |
+| Usage     | Description                | Generation Action             |
+| --------- | -------------------------- | ----------------------------- |
+| `direct`  | Primary visual reference   | Pass to `--ref` parameter     |
+| `style`   | Style characteristics only | Describe style in prompt text |
+| `palette` | Color palette extraction   | Include colors in prompt      |
 
 **If no reference file but style/palette extracted verbally**, append directly to prompt body:
+
 ```
 COLORS (from reference):
-- Primary: #E8756D coral
-- Secondary: #7ECFC0 mint
+- Primary: `#E8756D` coral
+- Secondary: `#7ECFC0` mint
 ...
 
 STYLE (from reference):
@@ -53,16 +53,17 @@ STYLE (from reference):
 
 **Apply to ALL prompts by default**:
 
-| Requirement | Description |
-|-------------|-------------|
-| **Clean composition** | Simple layouts, no visual clutter |
-| **White space** | Generous margins, breathing room around elements |
-| **No complex backgrounds** | Solid colors or subtle gradients only, avoid busy textures |
+| Requirement                         | Description                                                  |
+| ----------------------------------- | ------------------------------------------------------------ |
+| **Clean composition**               | Simple layouts, no visual clutter                            |
+| **White space**                     | Generous margins, breathing room around elements             |
+| **No complex backgrounds**          | Solid colors or subtle gradients only, avoid busy textures   |
 | **Centered or content-appropriate** | Main visual elements centered or positioned by content needs |
-| **Matching graphics** | Use graphic elements that align with content theme |
-| **Highlight core info** | White space draws attention to key information |
+| **Matching graphics**               | Use graphic elements that align with content theme           |
+| **Highlight core info**             | White space draws attention to key information               |
 
 **Add to ALL prompts**:
+
 > Clean composition with generous white space. Simple or no background. Main elements centered or positioned by content needs.
 
 ---
@@ -71,28 +72,30 @@ STYLE (from reference):
 
 When depicting people:
 
-| Guideline | Description |
-|-----------|-------------|
-| **Style** | Simplified cartoon silhouettes or symbolic expressions |
-| **Avoid** | Realistic human portrayals, detailed faces |
-| **Diversity** | Varied body types when showing multiple people |
-| **Emotion** | Express through posture and simple gestures |
+| Guideline     | Description                                            |
+| ------------- | ------------------------------------------------------ |
+| **Style**     | Simplified cartoon silhouettes or symbolic expressions |
+| **Avoid**     | Realistic human portrayals, detailed faces             |
+| **Diversity** | Varied body types when showing multiple people         |
+| **Emotion**   | Express through posture and simple gestures            |
 
 **Add to ALL prompts with human figures**:
+
 > Human figures: simplified stylized silhouettes or symbolic representations, not photorealistic.
 
 ---
 
 ## Text in Illustrations
 
-| Element | Guideline |
-|---------|-----------|
-| **Size** | Large, prominent, immediately readable |
-| **Style** | Handwritten fonts preferred for warmth |
-| **Content** | Concise keywords and core concepts only |
-| **Language** | Match article language |
+| Element      | Guideline                               |
+| ------------ | --------------------------------------- |
+| **Size**     | Large, prominent, immediately readable  |
+| **Style**    | Handwritten fonts preferred for warmth  |
+| **Content**  | Concise keywords and core concepts only |
+| **Language** | Match article language                  |
 
 **Add to prompts with text**:
+
 > Text should be large and prominent with handwritten-style fonts. Keep minimal, focus on keywords.
 
 ---
@@ -129,9 +132,10 @@ ASPECT: 16:9
 ```
 
 **Infographic + vector-illustration**:
+
 ```
 Flat vector illustration infographic. Clean black outlines on all elements.
-COLORS: Cream background (#F5F0E6), Coral Red (#E07A5F), Mint Green (#81B29A), Mustard Yellow (#F2CC8F)
+COLORS: Cream background (`#F5F0E6`), Coral Red (`#E07A5F`), Mint Green (`#81B29A`), Mustard Yellow (`#F2CC8F`)
 ELEMENTS: Geometric simplified icons, no gradients, playful decorative elements (dots, stars)
 ```
 
@@ -166,9 +170,10 @@ ASPECT: 16:9
 ```
 
 **Flowchart + vector-illustration**:
+
 ```
 Flat vector flowchart with bold arrows and geometric step containers.
-COLORS: Cream background (#F5F0E6), steps in Coral/Mint/Mustard, black outlines
+COLORS: Cream background (`#F5F0E6`), steps in Coral/Mint/Mustard, black outlines
 ELEMENTS: Rounded rectangles, thick arrows, simple icons per step
 ```
 
@@ -191,9 +196,10 @@ ASPECT: 16:9
 ```
 
 **Comparison + vector-illustration**:
+
 ```
 Flat vector comparison with split layout. Clear visual separation.
-COLORS: Left side Coral (#E07A5F), Right side Mint (#81B29A), cream background
+COLORS: Left side Coral (`#E07A5F`), Right side Mint (`#81B29A`), cream background
 ELEMENTS: Bold icons, black outlines, centered divider line
 ```
 
@@ -214,9 +220,10 @@ ASPECT: 16:9
 ```
 
 **Framework + vector-illustration**:
+
 ```
 Flat vector framework diagram with geometric nodes and bold connectors.
-COLORS: Cream background (#F5F0E6), nodes in Coral/Mint/Mustard/Blue, black outlines
+COLORS: Cream background (`#F5F0E6`), nodes in Coral/Mint/Mustard/Blue, black outlines
 ELEMENTS: Rounded rectangles or circles for nodes, thick connecting lines
 ```
 

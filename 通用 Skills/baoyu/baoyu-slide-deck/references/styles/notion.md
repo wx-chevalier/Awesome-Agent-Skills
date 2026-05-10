@@ -8,7 +8,7 @@ Clean, functional SaaS interface aesthetic. Dashboard-inspired layouts with clea
 
 ## Background
 
-- Color: Light Gray (#F7F7F5) or Pure White (#FFFFFF)
+- Color: Light Gray (`#F7F7F5`) or Pure White (`#FFFFFF`)
 - Texture: None - clean solid backgrounds
 
 ## Typography
@@ -23,17 +23,17 @@ Same family in regular weight. Optimized for screen reading. Comfortable line he
 
 ## Color Palette
 
-| Role | Color | Hex | Usage |
-|------|-------|-----|-------|
-| Background | Light Gray | #F7F7F5 | Primary background |
-| Card Background | Pure White | #FFFFFF | Content cards |
-| Primary Text | Near Black | #1F1F1F | Headlines, body |
-| Secondary Text | Gray | #6B6B6B | Metadata, labels |
-| Border | Light Border | #E5E5E5 | Card borders, dividers |
-| Accent Blue | Notion Blue | #2383E2 | Links, primary actions |
-| Accent Green | Success | #0F7B6C | Positive metrics |
-| Accent Red | Alert | #E03E3E | Negative metrics |
-| Accent Yellow | Warning | #DFAB01 | Cautions |
+| Role            | Color        | Hex       | Usage                  |
+| --------------- | ------------ | --------- | ---------------------- |
+| Background      | Light Gray   | `#F7F7F5` | Primary background     |
+| Card Background | Pure White   | `#FFFFFF` | Content cards          |
+| Primary Text    | Near Black   | `#1F1F1F` | Headlines, body        |
+| Secondary Text  | Gray         | `#6B6B6B` | Metadata, labels       |
+| Border          | Light Border | `#E5E5E5` | Card borders, dividers |
+| Accent Blue     | Notion Blue  | `#2383E2` | Links, primary actions |
+| Accent Green    | Success      | `#0F7B6C` | Positive metrics       |
+| Accent Red      | Alert        | `#E03E3E` | Negative metrics       |
+| Accent Yellow   | Warning      | `#DFAB01` | Cautions               |
 
 ## Visual Elements
 

@@ -18,26 +18,26 @@ High-energy atmosphere for exciting, discovery-filled content. Bright colors, dy
 
 When applied to any art style:
 
-| Adjustment | Direction |
-|------------|-----------|
-| Saturation | High (vibrant) |
-| Contrast | Medium-high |
+| Adjustment  | Direction        |
+| ----------- | ---------------- |
+| Saturation  | High (vibrant)   |
+| Contrast    | Medium-high      |
 | Temperature | Variable, punchy |
-| Brightness | Bright, clean |
+| Brightness  | Bright, clean    |
 
 ## Color Palette
 
 Shift toward vibrant tones:
 
-| Role | Color | Hex |
-|------|-------|-----|
-| Primary Red | Bright red | #F56565 |
-| Primary Yellow | Sunny yellow | #F6E05E |
-| Primary Blue | Sky blue | #63B3ED |
-| Accent 1 | Magenta | #D53F8C |
-| Accent 2 | Lime green | #68D391 |
-| Background | Clean white | #FFFFFF |
-| Background Alt | Bright pastels | Various |
+| Role           | Color          | Hex       |
+| -------------- | -------------- | --------- |
+| Primary Red    | Bright red     | `#F56565` |
+| Primary Yellow | Sunny yellow   | `#F6E05E` |
+| Primary Blue   | Sky blue       | `#63B3ED` |
+| Accent 1       | Magenta        | `#D53F8C` |
+| Accent 2       | Lime green     | `#68D391` |
+| Background     | Clean white    | `#FFFFFF` |
+| Background Alt | Bright pastels | Various   |
 
 ## Lighting
 
@@ -51,23 +51,23 @@ Shift toward vibrant tones:
 
 **Energy effects** (add to compositions):
 
-| Element | Usage |
-|---------|-------|
-| Speed lines | Motion, excitement |
-| Sparkles | Discoveries |
-| Burst effects | Aha moments |
-| Motion blur | Fast action |
-| Star bursts | Emphasis |
-| Sweat drops | Effort/surprise |
+| Element       | Usage              |
+| ------------- | ------------------ |
+| Speed lines   | Motion, excitement |
+| Sparkles      | Discoveries        |
+| Burst effects | Aha moments        |
+| Motion blur   | Fast action        |
+| Star bursts   | Emphasis           |
+| Sweat drops   | Effort/surprise    |
 
 ## Emotional Range
 
-| Emotion | Expression |
-|---------|-----------|
-| Excitement | Wide eyes, big smile |
-| Surprise | Dramatic reaction |
-| Determination | Intense focus |
-| Wonder | Sparkling eyes |
+| Emotion       | Expression           |
+| ------------- | -------------------- |
+| Excitement    | Wide eyes, big smile |
+| Surprise      | Dramatic reaction    |
+| Determination | Intense focus        |
+| Wonder        | Sparkling eyes       |
 
 ## Composition
 
@@ -97,9 +97,11 @@ Shift toward vibrant tones:
 ## Combination Notes
 
 Works especially well with:
+
 - manga: shonen energy
 - chalk: fun education
 
 Avoid with:
+
 - realistic: style mismatch
 - ink-brush: style mismatch

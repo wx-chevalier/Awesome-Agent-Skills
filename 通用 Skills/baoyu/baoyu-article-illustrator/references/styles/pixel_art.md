@@ -8,21 +8,21 @@ Pixelated retro aesthetic reminiscent of classic 8-bit and 16-bit era games. Chu
 
 ## Background
 
-- Color: Light Blue (#87CEEB) or Soft Lavender (#E6E6FA)
+- Color: Light Blue (`#87CEEB`) or Soft Lavender (`#E6E6FA`)
 - Texture: Subtle pixel grid pattern, optional CRT scanline effect
 
 ## Color Palette
 
-| Role | Color | Hex | Usage |
-|------|-------|-----|-------|
-| Background | Light Blue | #87CEEB | Primary background |
-| Alt Background | Soft Lavender | #E6E6FA | Secondary backgrounds |
-| Primary Text | Dark Navy | #1A1A2E | Main elements |
-| Accent 1 | Pixel Green | #00FF00 | Success, highlights |
-| Accent 2 | Pixel Red | #FF0000 | Alerts, emphasis |
-| Accent 3 | Pixel Yellow | #FFFF00 | Warnings, energy |
-| Accent 4 | Pixel Cyan | #00FFFF | Info, tech elements |
-| Accent 5 | Pixel Magenta | #FF00FF | Special elements |
+| Role           | Color         | Hex       | Usage                 |
+| -------------- | ------------- | --------- | --------------------- |
+| Background     | Light Blue    | `#87CEEB` | Primary background    |
+| Alt Background | Soft Lavender | `#E6E6FA` | Secondary backgrounds |
+| Primary Text   | Dark Navy     | `#1A1A2E` | Main elements         |
+| Accent 1       | Pixel Green   | `#00FF00` | Success, highlights   |
+| Accent 2       | Pixel Red     | `#FF0000` | Alerts, emphasis      |
+| Accent 3       | Pixel Yellow  | `#FFFF00` | Warnings, energy      |
+| Accent 4       | Pixel Cyan    | `#00FFFF` | Info, tech elements   |
+| Accent 5       | Pixel Magenta | `#FF00FF` | Special elements      |
 
 ## Visual Elements
 

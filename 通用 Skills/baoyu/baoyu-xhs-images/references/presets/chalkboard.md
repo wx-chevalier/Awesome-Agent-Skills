@@ -33,15 +33,15 @@ decorations:
 
 ## Color Palette
 
-| Role | Colors | Hex |
-|------|--------|-----|
-| Background | Chalkboard black, green-black | #1A1A1A, #1C2B1C |
-| Primary Text | Chalk white | #F5F5F5 |
-| Accent 1 | Chalk yellow | #FFE566 |
-| Accent 2 | Chalk pink | #FF9999 |
-| Accent 3 | Chalk blue | #66B3FF |
-| Accent 4 | Chalk green | #90EE90 |
-| Accent 5 | Chalk orange | #FFB366 |
+| Role         | Colors                        | Hex                  |
+| ------------ | ----------------------------- | -------------------- |
+| Background   | Chalkboard black, green-black | `#1A1A1A`, `#1C2B1C` |
+| Primary Text | Chalk white                   | `#F5F5F5`            |
+| Accent 1     | Chalk yellow                  | `#FFE566`            |
+| Accent 2     | Chalk pink                    | `#FF9999`            |
+| Accent 3     | Chalk blue                    | `#66B3FF`            |
+| Accent 4     | Chalk green                   | `#90EE90`            |
+| Accent 5     | Chalk orange                  | `#FFB366`            |
 
 ## Visual Elements
 
@@ -63,6 +63,7 @@ decorations:
 ## Style Rules
 
 ### Do
+
 - Maintain authentic chalk texture on all elements
 - Use imperfect, hand-drawn quality throughout
 - Add subtle chalk dust and smudge effects
@@ -70,6 +71,7 @@ decorations:
 - Include playful doodles and annotations
 
 ### Don't
+
 - Use perfect geometric shapes
 - Create clean digital-looking lines
 - Add photorealistic elements
@@ -77,14 +79,14 @@ decorations:
 
 ## Best Layout Pairings
 
-| Layout | Compatibility | Use Case |
-|--------|---------------|----------|
-| sparse | ✓✓ | Educational covers |
-| balanced | ✓✓ | Standard lessons |
-| dense | ✓✓ | Detailed tutorials |
-| list | ✓✓ | Learning checklists |
-| comparison | ✓ | Concept comparisons |
-| flow | ✓✓ | Process explanations |
+| Layout     | Compatibility | Use Case             |
+| ---------- | ------------- | -------------------- |
+| sparse     | ✓✓            | Educational covers   |
+| balanced   | ✓✓            | Standard lessons     |
+| dense      | ✓✓            | Detailed tutorials   |
+| list       | ✓✓            | Learning checklists  |
+| comparison | ✓             | Concept comparisons  |
+| flow       | ✓✓            | Process explanations |
 
 ## Best For
 

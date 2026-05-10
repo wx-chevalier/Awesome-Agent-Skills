@@ -10,6 +10,7 @@ description: First-time setup flow for baoyu-post-to-wechat preferences
 When no EXTEND.md is found, guide user through preference setup.
 
 **BLOCKING OPERATION**: This setup MUST complete before ANY other workflow steps. Do NOT:
+
 - Ask about content or files to publish
 - Ask about themes or publishing methods
 - Proceed to content conversion or publishing
@@ -67,11 +68,11 @@ options:
   - label: "Theme default (Recommended)"
     description: "Use the theme's built-in default color"
   - label: "blue"
-    description: "#0F4C81 经典蓝"
+    description: "`#0F4C81` 经典蓝"
   - label: "red"
-    description: "#A93226 中国红"
+    description: "`#A93226` 中国红"
   - label: "green"
-    description: "#009874 翡翠绿"
+    description: "`#009874` 翡翠绿"
 ```
 
 Note: User can choose "Other" to type any preset name (vermilion, yellow, purple, sky, rose, olive, black, gray, pink, orange) or hex value.
@@ -138,10 +139,10 @@ options:
 
 ## Save Locations
 
-| Choice | Path | Scope |
-|--------|------|-------|
-| Project | `.baoyu-skills/baoyu-post-to-wechat/EXTEND.md` | Current project |
-| User | `~/.baoyu-skills/baoyu-post-to-wechat/EXTEND.md` | All projects |
+| Choice  | Path                                             | Scope           |
+| ------- | ------------------------------------------------ | --------------- |
+| Project | `.baoyu-skills/baoyu-post-to-wechat/EXTEND.md`   | Current project |
+| User    | `~/.baoyu-skills/baoyu-post-to-wechat/EXTEND.md` | All projects    |
 
 ## After Setup
 

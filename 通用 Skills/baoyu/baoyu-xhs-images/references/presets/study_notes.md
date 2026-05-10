@@ -33,12 +33,12 @@ decorations:
 
 ## Color Palette (Three-Color Annotation System)
 
-| Role | Colors | Hex |
-|------|--------|-----|
-| Primary | Blue ballpoint, Black ink | #1E3A5F, #1A1A1A |
-| Highlights | Yellow highlighter | #FFFF00 (50% opacity) |
-| Accents | Red pen (circles, underlines) | #CC0000 |
-| Background | White lined paper | #FFFFFF |
+| Role       | Colors                        | Hex                     |
+| ---------- | ----------------------------- | ----------------------- |
+| Primary    | Blue ballpoint, Black ink     | `#1E3A5F`, `#1A1A1A`    |
+| Highlights | Yellow highlighter            | `#FFFF00` (50% opacity) |
+| Accents    | Red pen (circles, underlines) | `#CC0000`               |
+| Background | White lined paper             | `#FFFFFF`               |
 
 ## Visual Elements
 
@@ -48,7 +48,7 @@ decorations:
 - Red pen annotations: circles, underlines, stars, boxes
 - Yellow highlighter marking key terms
 - Correction marks, cramped notes squeezed into margins
-- Simple hand-drawn symbols: → * ✓ ✗ !
+- Simple hand-drawn symbols: → \* ✓ ✗ !
 - Varying pen pressure creating lighter and darker strokes
 
 ## Typography
@@ -63,32 +63,35 @@ decorations:
 Three-section layout:
 
 ### Top Section
+
 - Core topic (circled multiple times in red)
 - First section title + 3-4 key points
 - Arrow connections, red underlines
 
 ### Middle Section
+
 - Second section title (red pen box)
 - Numbered steps ①②③
 - Specific methods and supplementary notes
 
 ### Bottom Section
+
 - Third section title (red star)
 - Time points / key metrics
 - Key quotes / core tips (tiny corner notes)
 
 ## Best Layout Pairings
 
-| Layout | Compatibility | Use Case |
-|--------|---------------|----------|
-| sparse | ✗ | Not suitable - style requires dense content |
-| balanced | ✓ | When content is lighter |
-| dense | ✓✓ | Best fit - knowledge notes, summaries |
-| list | ✓✓ | Step checklists, rankings |
-| comparison | ✓ | Comparative analysis |
-| flow | ✓ | Process flows |
-| mindmap | ✓✓ | Mind map notes |
-| quadrant | ✓ | Quadrant analysis |
+| Layout     | Compatibility | Use Case                                    |
+| ---------- | ------------- | ------------------------------------------- |
+| sparse     | ✗             | Not suitable - style requires dense content |
+| balanced   | ✓             | When content is lighter                     |
+| dense      | ✓✓            | Best fit - knowledge notes, summaries       |
+| list       | ✓✓            | Step checklists, rankings                   |
+| comparison | ✓             | Comparative analysis                        |
+| flow       | ✓             | Process flows                               |
+| mindmap    | ✓✓            | Mind map notes                              |
+| quadrant   | ✓             | Quadrant analysis                           |
 
 ## Best For
 
@@ -101,13 +104,15 @@ Three-section layout:
 ## Style Rules
 
 ### DO ✓
+
 - Keep content extremely dense
-- Use simple symbols (→ * ✓ ✗ !)
+- Use simple symbols (→ \* ✓ ✗ !)
 - Annotate key points with red pen
 - Include correction marks
 - Squeeze tiny notes into margins
 
 ### DON'T ✗
+
 - Use complex emojis
 - Leave too much whitespace
 - Make neat, tidy layouts

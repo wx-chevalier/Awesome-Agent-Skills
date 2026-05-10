@@ -8,7 +8,7 @@ Charming hand-drawn animation aesthetic reminiscent of classic Disney, Studio Gh
 
 ## Background
 
-- Color: Soft Sky Blue (#E8F4FC) or Warm Cream (#FFF8E7)
+- Color: Soft Sky Blue (`#E8F4FC`) or Warm Cream (`#FFF8E7`)
 - Texture: Subtle watercolor wash, soft brush strokes, gentle paper texture
 
 ## Typography
@@ -23,17 +23,17 @@ Rounded sans-serif or casual handwritten style. Friendly and readable. Maintains
 
 ## Color Palette
 
-| Role | Color | Hex | Usage |
-|------|-------|-----|-------|
-| Background | Soft Sky Blue | #E8F4FC | Primary background |
-| Alt Background | Warm Cream | #FFF8E7 | Secondary areas |
-| Primary Text | Deep Forest | #2D5A3D | Headlines |
-| Body Text | Warm Brown | #5D4E37 | Body content |
-| Accent 1 | Golden Yellow | #F4D03F | Magic, highlights |
-| Accent 2 | Rose Pink | #E8A0BF | Warmth, charm |
-| Accent 3 | Sage Green | #87A96B | Nature elements |
-| Accent 4 | Sky Blue | #7EC8E3 | Air, water, dreams |
-| Accent 5 | Coral | #F08080 | Emphasis, life |
+| Role           | Color         | Hex       | Usage              |
+| -------------- | ------------- | --------- | ------------------ |
+| Background     | Soft Sky Blue | `#E8F4FC` | Primary background |
+| Alt Background | Warm Cream    | `#FFF8E7` | Secondary areas    |
+| Primary Text   | Deep Forest   | `#2D5A3D` | Headlines          |
+| Body Text      | Warm Brown    | `#5D4E37` | Body content       |
+| Accent 1       | Golden Yellow | `#F4D03F` | Magic, highlights  |
+| Accent 2       | Rose Pink     | `#E8A0BF` | Warmth, charm      |
+| Accent 3       | Sage Green    | `#87A96B` | Nature elements    |
+| Accent 4       | Sky Blue      | `#7EC8E3` | Air, water, dreams |
+| Accent 5       | Coral         | `#F08080` | Emphasis, life     |
 
 ## Visual Elements
 

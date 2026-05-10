@@ -8,21 +8,21 @@ Warm and inviting visual approach that feels personal and approachable. Soft, fr
 
 ## Background
 
-- Color: Cream (#FFFAF0) or Soft Peach (#FED7AA)
+- Color: Cream (`#FFFAF0`) or Soft Peach (`#FED7AA`)
 - Texture: Soft paper texture with warm undertones
 
 ## Color Palette
 
-| Role | Color | Hex | Usage |
-|------|-------|-----|-------|
-| Background | Cream | #FFFAF0 | Primary background |
-| Alt Background | Soft Peach | #FED7AA | Accent sections |
-| Primary | Warm Orange | #ED8936 | Main accent color |
-| Secondary | Golden Yellow | #F6AD55 | Supporting warmth |
-| Tertiary | Terracotta | #C05621 | Earthy depth |
-| Accent | Deep Brown | #744210 | Grounding elements |
-| Alt Accent | Soft Red | #E53E3E | Emotional touches |
-| Text | Warm Charcoal | #4A4A4A | Text elements |
+| Role           | Color         | Hex       | Usage              |
+| -------------- | ------------- | --------- | ------------------ |
+| Background     | Cream         | `#FFFAF0` | Primary background |
+| Alt Background | Soft Peach    | `#FED7AA` | Accent sections    |
+| Primary        | Warm Orange   | `#ED8936` | Main accent color  |
+| Secondary      | Golden Yellow | `#F6AD55` | Supporting warmth  |
+| Tertiary       | Terracotta    | `#C05621` | Earthy depth       |
+| Accent         | Deep Brown    | `#744210` | Grounding elements |
+| Alt Accent     | Soft Red      | `#E53E3E` | Emotional touches  |
+| Text           | Warm Charcoal | `#4A4A4A` | Text elements      |
 
 ## Visual Elements
 
