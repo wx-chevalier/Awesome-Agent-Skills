@@ -45,6 +45,7 @@
 | Skill Name             | Description                                                                       | Source                                                           |
 | ---------------------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | **X to Markdown**      | 将 X (Twitter) 推文、Thread 或文章转换为带有 YAML Front Matter 的 Markdown 格式。 | [`baoyu-danger-x-to-markdown`](baoyu/baoyu-danger-x-to-markdown) |
+| **Xquik x-twitter-scraper** | 为 Agent 提供 X/Twitter 推文搜索、个人主页推文、粉丝导出、媒体下载、发推、回复、DM、webhooks、MCP 与 SDK 工作流。 | [`xquik-x-twitter-scraper`](通用%20Skills/xquik-x-twitter-scraper) |
 | **Markdown Formatter** | 自动格式化 Markdown 文档，优化排版、标题、列表及代码块样式。                      | [`baoyu-format-markdown`](baoyu/baoyu-format-markdown)           |
 
 ### 🛠️ 工具与实用程序 (Tools & Utilities)
