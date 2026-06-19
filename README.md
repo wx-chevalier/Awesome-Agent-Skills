@@ -14,6 +14,7 @@
     - [🎨 图像与视觉 (Image \& Visuals)](#-图像与视觉-image--visuals)
     - [� 内容与数据处理 (Content \& Data Processing)](#-内容与数据处理-content--data-processing)
     - [🛠️ 工具与实用程序 (Tools \& Utilities)](#️-工具与实用程序-tools--utilities)
+    - [📈 营销与广告 (Marketing \& Ads)](#-营销与广告-marketing--ads)
   - [📂 目录结构 (Directories)](#-目录结构-directories)
   - [🧠 核心概念 (Core Concepts)](#-核心概念-core-concepts)
     - [规划与推理 (Planning \& Reasoning)](#规划与推理-planning--reasoning)
@@ -52,6 +53,12 @@
 | Skill Name            | Description                                                  | Source                                                     |
 | --------------------- | ------------------------------------------------------------ | ---------------------------------------------------------- |
 | **Gemini Web Client** | 逆向工程的 Gemini Web API 客户端，支持多轮对话及多模态生成。 | [`baoyu-danger-gemini-web`](baoyu/baoyu-danger-gemini-web) |
+
+### 📈 营销与广告 (Marketing & Ads)
+
+| Skill Name     | Description                                                                                                                                                                                                         | Source                                                                                                                                                                                          |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **NotFair**    | Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. (~2.9k stars, MIT) | [`seo/`](https://github.com/nowork-studio/NotFair/tree/main/seo) · [`google-ads/`](https://github.com/nowork-studio/NotFair/tree/main/google-ads) · [`meta-ads/`](https://github.com/nowork-studio/NotFair/tree/main/meta-ads) |
 
 ---
 
